@@ -1,0 +1,675 @@
+ENTY:word ¿ Que palabra inglesa tiene la mayor parte de cartas ?
+NUM: ¿ Cuantos estudiantes japoneses estaban alli en los Estados Unidos en 1990 ?
+DESC:manner ¿ Como puedo conseguir a alguien ' s direccion de correo electronico ?
+HUM:ind ¿ Que reina inglesa tenia seis dedos por una parte ?
+LOC:other ¿ Donde puedo encontrar la informacion en Alexander Mackenzie ?
+ENTY:veh ¿ Cual era el nombre de Aristoteles Onassis ' s yate ?
+NUM: ¿ Cuando es la pelicula " Historia de Lisboa " liberado ?
+DESC:def ¿ Cual es un serigraph ?
+HUM:ind ¿ Que Senador de Luisiana gano un asiento que habia sido sostenido por su padre y madre ?
+DESC: ¿ A que escuela asistio Max Bill ?
+NUM:count ¿ Cuantas veces mas fuerte el nuevo carbon vitreo es el material inventado por el Instituto de Tokio de la Tecnologia comparado con el material hecho de la celulosa ?
+ENTY:other ¿ Cual es la gente de cosa mas grande han hecho ?
+HUM:ind ¿ Quien era el dependiente de cepillo a domicilio famoso ?
+NUM: ¿ Cual es el resultado del partido de Italia-Noruega en la Copa Mundial de f&250;tbol ?
+HUM:ind ¿ Quien es el & 250;nico primer ministro de Canada para servir 22 años , pero no necesariamente consecutivamente ?
+HUM:ind ¿ Autobiografia de quien es titulada Si Puedo ?
+LOC: ¿ Donde esta Requena ?
+HUM:desc ¿ Quien es Robin Williams ?
+LOC:other ¿ Donde estaba Richard Nixon cuando Gerald Ford se hizo el presidente ?
+NUM:money ¿ Cuales son los ingresos per capita de Colombia , Sudamerica ?
+NUM: ¿ Cual es el precio de suicidio mundial ?
+HUM:ind ¿ Que poeta moderno mas vendido era el co-fundador de la Libreria de Luces de Ciudad famosa en San Francisco ?
+DESC:def ¿ Cual es el Dia de Candelaria ?
+LOC: ¿ Cual es la capital de Somalia ?
+ABBR:abb Lo que es el modo correcto de abreviar centimetros c&250;bicos.¿en el fondo de una carta comercial ?
+LOC:other ¿ Donde puedo encontrar Preguntar a un sitio Experto ?
+LOC:other ¿ Cual es el mundo ' s los tres oceanos mas grandes , por orden del tamaño ?
+LOC:other ¿ Con que oceano linda Mauritania ?
+DESC: ¿ Cual es el yakuza ?
+ENTY:animal ¿ Cuales son descendientes de aves de ?
+HUM: ¿ Quien es el Emperador japones ?
+NUM:count ¿ Cuantas cartas aparecen con el n&250;mero 2 a 9 en un disco telefonico ?
+HUM:gr ¿ Que equipo de beisbol era rutinariamente llamado vagabundos dem por sus abanicos frustrados ?
+NUM: ¿ Que año , antes de 1995 , hizo la Conferencia Mundial sobre Mujeres ocurren ?
+HUM:ind ¿ Que escritor español clasico dijo No es oro todo lo que reluce ?
+HUM:gr ¿ Cual es la mejor arte y escuela de diseño en el mundo ?
+DESC:manner ¿ Como averiguo el tiempo exacto de una puesta del sol durante un dia particular ?
+ENTY: ¿ Cual es el nombre de la cola de Richard Branson ?
+DESC:def ¿ Cual es la hidroelectricidad ?
+DESC:desc ¿ Cual es la prueba que las plantas de interior metabolizan cancerigenos ?
+HUM:ind ¿ Quien hurta en tiendas ?
+HUM:ind ¿ Quien escribio al Agricultor ' s Almanaque ?
+LOC: ¿ Que estado indio tiene el n&250;mero mas alto de habitantes ?
+LOC:city ¿ Que ciudad a menudo es llamada la Capital de Seguros del Mundo ?
+LOC:other ¿ Donde tienen a la mayor parte de dinosaurio permanece sido encontrado ?
+NUM:volsize ¿ De que tamaño es un cuarto de galon ?
+HUM:ind ¿ Quien gano un Premio Pulitzer para su novela el Motin Caine ?
+DESC:desc ¿ Donde hacen las rocas vienen de ?
+LOC:other ¿ Cual es la posicion del Aeropuerto de McCarren ?
+NUM:count ¿ Cuanta gente vive en las Islas Malvinas ?
+HUM:ind ¿ Que lider Nazi se mato en la carcel justo antes de que el debia ser ejecutado como un criminal de guerra ?
+LOC:other ¿ Que rio famoso Hernando de Soto era el primer europeo para ver ?
+NUM:count ¿ Cuanto vietnamita estaba alli en la Union Sovietica ?
+LOC:other ¿ Donde puedo encontrar direcciones ilustradas en como construir treehouse muy simple ?
+LOC: ¿ Donde fue descubierto la tumba del emperador maya Kinich Ah Revienta ?
+NUM: ¿ Cuando fue disuelta la ex-Yugoslavia ?
+DESC: ¿ Cual es la compañia industrial mas grande de Finlandia ?
+LOC:other ¿ Donde esta Natchitoches , Luisiana ?
+HUM: Quien planeo la construccion de San.¿Peter ?
+HUM:ind ¿ Quien invento baterias ?
+NUM:count ¿ Cuantos años de la mala suerte siguen la rotura de un espejo ?
+ENTY:color ¿ Que dos colores usted es ciego a si usted sufre de protanopia ?
+HUM:ind ¿ Quien dijo Me dan la libertad o me dan la muerte ?
+ENTY:color ¿ Cual es la Vispera de todos los Santos ' s colores ?
+HUM:title ¿ Que ocupacion tiene el precio de divorcio mas alto ?
+ENTY:other Lo que hizo a Sr .. ¿Magoo azota por la TV para el General Electric ?
+ENTY:event ¿ Que edad siguio la Edad de Bronce ?
+DESC:def ¿ Cual es una valvula de corazon agujereada ?
+ENTY:other ¿ Cuales son los tipos diferentes de plastico ?
+HUM:gr ¿ Que colegio hizo Dikembe Mutombo juegan al baloncesto para ?
+NUM: ¿ Que edad tenia Pearl Primus cuando ella murio ?
+HUM: ¿ Que presidente norcoreano murio a la edad de 82 años ?
+ENTY:other ¿ Que hizo el Agujero de Ceniza de nombre de Esquire del Año para 1980 ?
+NUM:count Lo que era el U.S.¿n&250;mero de victimas de carretera en 1969 ?
+DESC: ¿ Quien financia las instituciones privadas IPSS de la solidaridad social ?
+LOC:other ¿ Que calle de Tokio brilla con grandes almacenes famosos y clubes nocturnos ?
+NUM:count ¿ Cuantos pies mucho tiempo es una jarra de beisbol ' s caucho ?
+HUM:gr ¿ Que ' s Japon ' s el fabricante de coches mas grande ?
+ENTY:termeq ¿ Que termino significa una atraccion sexual entre un varon y una mujer ?
+LOC:other ¿ Cual es el museo mas grande en el mundo ?
+LOC:other ¿ En 139 el tribunal papal fue obligado a moverse de Roma a donde ?
+NUM: ¿ Cuanta gente desempleada esta alli en Europa ?
+HUM:ind ¿ A quien debia el segundo hombre andar por la luna ?
+ENTY:cremat ¿ Que programa de television de noche presenta a Larry , Brote , Melman y Tostada en un Palo ?
+ENTY:dismed ¿ Que enfermedad es transmitida por el mosquito Anopheles ?
+ENTY:other ¿ Que es guardado en la Fortaleza Knox que es tan valioso ?
+ENTY:other ¿ Cuales eran billetes de banco peludos en el comercio de piel ?
+DESC: ¿ Que partido hizo Noriega pertenecen a ?
+NUM:period ¿ Cuanto toma esto para su cuerpo para restaurar la sangre despues de que usted dona su sangre ?
+HUM:ind ¿ Quien es el primer ministro corriente y el presidente de Rusia ?
+ENTY:termeq ¿ Misisipi es apodado que ?
+NUM:dist ¿ A que distancia puede usted ver ?
+NUM: ¿ Cuanta gente vive en Brasil ?
+DESC:manner ¿ Como puedo conseguir a alguien ' s n&250;mero de telefono si solo tengo su nombre de pantalla ?
+DESC:def ¿ Que ' s un golpe de poing a un boxeador frances ?
+ENTY:animal ¿ Que perro de Hollywood murio en las armas de Jean Harlow en 1932 ?
+ENTY:product ¿ Que coche fue conducido en la 199 liberacion de Smokey y el Bandido ?
+HUM:ind Quien era U mas alto . S.¿el presidente ?
+DESC: ¿ Que equipo gano la taza de baloncesto de Euroclub ?
+ENTY:other ¿ Que dejaron Dan Aykroyd y John Belushi el sabado por la noche Vivo para hacerse ?
+LOC:other ¿ Donde esta el Taj Mahal ?
+DESC:def ¿ Cual es la pita griega ?
+DESC:desc Que ' s la diferencia entre J.D.y LL.M. ?
+LOC:other ¿ Cual es la direccion de web en la cual puedo encontrar la direccion de correo electronico de un miembro de la Camara de Representantes estadounidense ?
+ENTY:sport ¿ Que deporte presenta slotbacks , caravanas de carros , y touchbacks ?
+HUM:ind ¿ Que presidente nunca habia sostenido una oficina decidida hasta que el fuera decidido a la Casa Blanca ?
+ENTY:termeq ¿ Que ' s el nombre com&250;n para un arbol enano japones ?
+ENTY:event ¿ Contra que guerra lucharon los Españoles por lo que las Filipinas ?
+LOC: ¿ Donde ocurrieron los Juegos Olimpicos 1992 ?
+NUM:count ¿ Cuanto el calcio deberia una mujer adulta tener diariamente ?
+DESC: ¿ Quien cometio el ataque terrorista en el movimiento clandestinoel metro de Tokio ?
+HUM:gr Que U.S.¿La agencia del gobierno registra marcas registradas ?
+HUM:ind Quien era & 250;ltimo U.S.¿el presidente para rehabilitar registro de Servicio Selectivo ?
+HUM:ind ¿ Quien era la madre del hombre que no seria el rey , el duque de Windsor ?
+NUM:count ¿ Cuanta gente muere de la tuberculosis cada año ?
+NUM:period ¿ Cuanto toma esto para el Hombre araña ' s la web para evaporarse ?
+LOC:other Llame una galeria de arte en Nueva York
+NUM:count ¿ Cuantos arbitros trabajan un juego de f&250;tbol ?
+NUM:date ¿ Cual es la fecha del Dia Bastille ?
+DESC:reason ¿ Por que cruzo el pollo el camino ?
+NUM:count ¿ Cuanta gente vivio en Nebraska a mediados de los años 1900 ?
+ENTY: ¿ De cual sustancia es sacado el tolueno ?
+DESC:reason ¿ Por que es la abreviatura de palabra tan mucho tiempo ?
+LOC:other ¿ Donde puedo encontrar revisiones de libro de Almas Turbulentas ?
+HUM:ind ¿ Quien retrato Prewett en de Aqui a la Eternidad ?
+LOC:other ¿ Que isla de Mediterraneo es de casa al primer Club Med ?
+NUM:date ¿ Cual es la fecha media cuando la mayor parte de alamedas comienzan decoraciones de Navidad de presentacion ?
+LOC:other ¿ Que constelacion representa a un cazador con club y escudo ?
+HUM:ind Llame a los Cuatro Jinetes del Apocalipsis
+ENTY:other ¿ Que capacidad ha perdido la polilla de gusano de seda por la domesticacion ?
+NUM: ¿ En que año fue nacido Nelson Mandela ?
+NUM: ¿ Cuando decidieron las Naciones Unidas imponer el embargo a Iraq ?
+ENTY:cremat ¿ Que novela de Stephen King es puesta en un cementerio para animales domesticos ?
+DESC:reason ¿ Por que se hacen la pelicula y las estrellas de TV pagadas tanto ?
+ENTY:dismed ¿ Cual es un miedo de enfermedad ?
+ENTY:word ¿ Cual es una palabra cartas de quien pueden ser reajustadas para formar una palabra diferente ?
+NUM:count ¿ Cuantos presidentes han muerto el 4 de julio ?
+HUM:ind ¿ Cual es Michael Jackson ' s padre ' s nombre ?
+DESC:def ¿ Cual es la Colonia Perdida ?
+NUM: ¿ Que año concedieron a Octavio Paz el Premio Nobel ?
+NUM:period ¿ Cuanto toma esto la luna para girar alrededor de la Tierra ?
+HUM:ind Quien posee el San.¿Louis Rams ?
+ENTY:animal ¿ Quien era el primer animal en el espacio ?
+DESC:reason ¿ Que funcion hace una comunidad ' s torre de agua sirven ?
+LOC:other Lo que es el Homelite Inc.¿pagina de inicio ?
+HUM: ¿ Quien es Umberto Bossi ?
+HUM:ind ¿ Cuales son nombres de dos ancianos que parecen en tv consecutivo Muppets el Espectaculo ?
+NUM:count ¿ Que ' s la longitud maxima , en pulgadas , de primer baseman ' s guante ?
+HUM:ind ¿ Que vaquero de canto famoso posee el equipo de beisbol de & 193;ngeles de California ?
+DESC:desc ¿ Cual es el origen del portador de feretro de palabra ?
+LOC:city ¿ Que ciudad de Kentucky se llama el Centro de Caballo de America ?
+HUM:ind ¿ Que dos jarras de Yanqui de Nueva York cambiaron a mujeres y familias ?
+NUM: ¿ Cuando eran las Fuerzas Populares de Liberacion de Mozambique creado ?
+HUM:ind ¿ Que actor y el aviador de Segunda Guerra Mundial tenian 5 dolares , 0 generosidad puso su cabeza por Hermann Goering ?
+NUM:date ¿ Cual es Dick Clark ' s la fecha del nacimiento ?
+DESC:manner ¿ Como hacen el trabajo de Bordos de Ouija ?
+LOC:other ¿ Donde fue a la universidad Bill Gates ?
+DESC:desc ¿ Cual es el origen de la palabra ' elegante ' ?
+ENTY:other ¿ Que bandera vuela sobre la Isla de Estela ?
+DESC:manner ¿ Como consigo otra ciudad ' s periodico ?
+HUM: ¿ Que matematico americano demostro el Teorema de Fermat ?
+LOC:city ¿ Que dos ciudades por lo general marcan los extremos de nadadas de Canal inglesas ?
+ENTY:dismed ¿ Cual es el cancer mas com&250;n ?
+DESC:manner ¿ Como pone en una caja usted el tren un gato ?
+ENTY:termeq ¿ Cual es el equivalente Islamico de la Cruz Roja ?
+ENTY:color ¿ Que tres colores estan en la bandera francesa ?
+ENTY:cremat ¿ Que libro de comics no fue engendrado directamente de las revistas de pulpa ?
+DESC:manner ¿ Como es purificado el estroncio de elemento ?
+HUM: ¿ Quien construyo el Muro de Berlin ?
+NUM:count ¿ Cuantos metros estan en una milla ?
+ENTY:body ¿ Donde cultiva su pelo el mas rapido ?
+DESC:def ¿ Que el agente es la naranja ?
+DESC:manner ¿ Como hace el coche en Christine hecha poseido ?
+HUM:ind Lo que el escritor de misterio escribio.¿la gloria que era Grecia , y la grandeza que era Roma ?
+HUM: ¿ Quien es el director general de la OIEA ?
+LOC: Llame vulcano japones
+DESC:def ¿ Que hace el nombre Shawn medio ?
+NUM: ¿ Cuando fue firmado el Tratado de Maastricht ?
+HUM:ind ¿ Quien es la superestrella en coches de alquiler ?
+ENTY:dismed ¿ Cual es un miedo de colera ?
+LOC:other ¿ Cual es la posicion de Edinburgh , Escocia ?
+NUM:count ¿ Cuantos actores americanos fueron denominados por el mejor actor Oscar para 1983 ?
+DESC: ¿ Como puede el rechazo de sistema inmunologico ser eliminado ?
+LOC:country ¿ Jackson Pollock era un natural que pais ?
+NUM:count ¿ Cuanta gente fue condenado Randy Craft de la matanza ?
+HUM:ind ¿ Quien mando las fuerzas francesas en la Batalla de Orleans ?
+LOC:other ¿ Que ' s el mundo ' s la puente colgante mas larga ?
+HUM:ind ¿ Quien era la estrella de Permiso Ello al Castor ?
+ENTY:word ¿ Cual es la palabra para el amor de dolor o abuso ?
+DESC:manner ¿ Como hace usted dumplings ?
+NUM:date ¿ Cuando era la Batalla de Hastings ?
+LOC:country ¿ Que pais ' s capital es Tirana ?
+ENTY:food Lo que se hizo los cultivos vendidos y no utilizados como forraje mas grandes en el U.S.¿en 1983 , maiz superior ?
+HUM:ind ¿ Quien enseño a Matt Murdock usar sus capacidades extraordinarias en comicos de Maravilla ?
+ENTY:plant ¿ Que arbustos pueden ser plantados lo que sera seguro de ciervos ?
+LOC:state ¿ Que estado represento Anita Bryant en la competicion de señorita America 1959 ?
+LOC: ¿ Donde esta aeropuerto Heathrow ?
+ENTY:termeq ¿ Que termino entonces despectivo fue aplicado a los pintores Monet , Sisley , Pissarro , Renoir y Degas ?
+NUM:perc ¿ Cual es la posibilidad de cuatrillizos que conciben ?
+NUM:count ¿ Cuantos puntos arreglan fivepin perfecto que lanza el resultado ?
+DESC:def ¿ Que hace la palabra griega polis medio , como en Minneapolis ?
+DESC:manner ¿ Como hizo al antiguo luchador WWF RICK Grosero mueren ?
+NUM:volsize ¿ De que tamaño es el Colegio Electoral ?
+HUM:ind ¿ Quien era el redactor de comida mas famoso de New York Times ?
+ENTY:dismed ¿ Que medicina com&250;nmente es usada para tratar el SIDA ?
+HUM: ¿ Quien es Andrew Lack ?
+ENTY:animal Que mosquito ' s muerden sangre de empates , DT NN CENT&205;METROS C&218;BICOS DT NN
+DESC:def ¿ Cual es splatterpunk ?
+NUM: ¿ Cuantos presos fueron tomados en la captura 1813 de la Fortaleza Niagara ?
+HUM: ¿ Quien es el presidente del F&205;AT ?
+LOC: ¿ Donde esta el " FreightTrain Shakespeare " grupo que realiza " a Henry V " ?
+DESC:desc ¿ Cual es el origen de la trigonometria de palabra ?
+DESC:def ¿ Cuales son Uñas de Nueve pulgadas ?
+DESC:def ¿ Cual es la definicion de una cascada ?
+DESC:def ¿ Cual es el sistema feudal ?
+HUM: Llame a uno de los fundadores de Greenpeace
+HUM:ind Quien escribio : ¿ los Poemas son hechos por tontos como mi pero solo Dios puede hacer un arbol ?
+HUM:ind ¿ Quien domestico al pavo salvaje ?
+DESC:reason ¿ Por que afeitaron los egipcios sus cejas ?
+ENTY:lang ¿ Que ' s la mayor parte de com&250;nmente-lenguaje-hablado en Belgica ?
+DESC: ¿ Cual es el FIFG ?
+ABBR:exp Lo que hace e.g.¿aguante ?
+DESC:manner ¿ Como se forman las nubes ?
+NUM:date ¿ A que hora del dia murio el Emperador Hirohito ?
+DESC:desc ¿ Cual es el origen del tampon de palabra ?
+HUM: ¿ Quien es el autor " de Mein Kampf " ?
+LOC: ¿ En que el pais es Tegucigalpa ?
+DESC:manner ¿ Como hace el Nintendo Zapper trabajo ?
+LOC:other ¿ Donde estan los 49 pasos ?
+LOC:city ¿ Que capital sudamericana es el mundo ' s el mas alto ?
+LOC: ¿ Donde hizo el accidente del petrolero " marzo Egeo " ocurren ?
+DESC:reason ¿ Por que es negro el color de luto en el Oeste ?
+ENTY:other ¿ Que arma de cuerda enciende un cerrojo ?
+DESC:def ¿ Cual es la etologia ?
+LOC: Llame una ciudad japonesa golpeada por un terremoto
+NUM:date ¿ Que la temporada comienza con el equinoccio de vernal ?
+DESC:def ¿ Cual era el marzo Largo en China ?
+HUM:ind ¿ Quien vive en 39 Cañon de Piedra el Camino ?
+HUM: ¿ Quien es el presidente de Rusia ?
+HUM: ¿ Con quien esta casado Michael Jackson ?
+DESC:def ¿ Cuales son los cineastas collabrative ?
+NUM:count ¿ Cuantas especies del Gran tiburon Blanco estan alli ?
+LOC:other ¿ Donde esta la Isla de Hombre ?
+HUM:ind ¿ Quien es el proyecto de Viajero gerente ?
+DESC: ¿ Que equipo gano la liga de f&250;tbol española durante la 1994-1995 temporada ?
+HUM:ind ¿ Quien libero el 19o siglo Sicilia y Napoles ?
+NUM:date ¿ Cuando comenzo el arte de quilting ?
+DESC:def ¿ Cual exactamente es la radiacion ?
+NUM: ¿ Cuanto toma esto por termino medio para entrenar un perro de pastor aleman ?
+LOC: ¿ Cual es el pais richest en el mundo ?
+DESC: ¿ Que equipo gano el campeonato de NBA ?
+LOC:country ¿ Que paises tienen la proporcion mas alta de estudiantes de universidad ?
+HUM: ¿ Que ciudadano britanico fue administrado 50 latigazos de fusta en Qatar ?
+ENTY:other ¿ Cual es una cosa que usted necesita antes de que usted pueda comprar el seguro de vida ?
+DESC: ¿ Que pais retiro sus tropas de Bosnia ?
+DESC:reason ¿ Por que es los tamaños diferentes lunares y colores ?
+NUM:count ¿ Cuanta cafeina esta en una taza de cafe de 16 onz . ?
+ENTY:event ¿ Que comenzo en 1849 cuando el oro fue descubierto en Sutter ' s Molino ?
+DESC:desc Lo que es el origen de U.S.¿Sargento de ejercito ' s rayas ?
+HUM:ind ¿ Quienes son los presidentes de Mexico e Indonesia ?
+HUM:desc ¿ Quien es Ishmael en Moby Dick ?
+DESC:def ¿ Cual es el punto de rocio ?
+ENTY:symbol ¿ Cual es el simbolo quimico para el nitrogeno ?
+LOC:city ¿ En que la ciudad es la Declaracion estadounidense de la Independencia localizada ?
+NUM:count ¿ Cuantas millas de venas estan en el sistema circulatorio ?
+ENTY:cremat ¿ Que escribio Shostakovich para Rostropovich ?
+LOC:other ¿ Donde hacen las aventuras de la Familia suiza Robinson ocurre ?
+LOC:other ¿ En que el rio es el Castillo Windsor ?
+HUM: ¿ Que escritor era el & 250;ltimo marido de Marilyn Monroe ?
+ENTY:cremat ¿ Para que estacion de TV trabajo Mary Richards ?
+DESC: ¿ Que compañia recordo muchos coches para fijar problemas mecanicos ?
+NUM:code ¿ Que siete digitos siguen el prefijo local en el n&250;mero para la informacion de distancia larga ?
+ENTY:cremat ¿ Que novela de Vladimir Nabokov presenta al Profesor Humbert enamorado de una muchacha de 12 años ?
+LOC:other ¿ Donde puedo encontrar el schematics al mecanismo de limpiaparabrisas ?
+DESC:reason ¿ Por que son tantos paraguas negros ?
+NUM:money ¿ Cual era Joe Namath ' s primero contratan el valor ?
+LOC: ¿ Cual es el nombre argentino para la Isla Malvinas ?
+DESC:manner Como puede la gente de Irlanda venir al U.S. , ¿ el trabajo , y luego vuelve a Irlanda ?
+DESC: Por que la abreviatura es el U.N.¿Fondo de Niños conocido ?
+ENTY:other ¿ De que agarra la gente enfermedades zoonose ?
+ENTY: ¿ Por que es causado el agujero de ozono ?
+DESC:def ¿ Cual es el vodka lavado ?
+ABBR:exp ¿ Que hace el canal que ESPN significan ?
+LOC:city ¿ En que ciudad europea hacen Nicois vivo ?
+NUM:money ¿ Cuanto costo Alaska cuando comprado de Rusia ?
+DESC:desc ¿ Cual es el origen de la expresion ofrecen la suite de ?
+HUM:gr ¿ Llame a un productor de diamante sudafricano ?
+NUM: ¿ A cuantos habitantes tiene Iraq ?
+HUM: ¿ Cual es Mika Kaurism ? " & 164 ; el nombre del hermano del ki ?
+ENTY:animal ¿ Para que animal fue llamado el misil termodirigido el Sidewinder llamado ?
+HUM: ¿ Quien era el presidente de los Estados Unidos en 1994 ?
+LOC:other ¿ Donde Telefonea realmente Aldrina quieren construir un permanente , tripulo la estacion espacial ?
+HUM:ind ¿ Quien bailo en el estrellato con Fred Astaire en 1941 ' s Usted ' ll Nunca Se Enriquecen ?
+NUM: ¿ Cuando llego Hernando Cortes al Imperio azteca ?
+DESC:desc ¿ Cual es el origen del nombre ' Scarlett ' ?
+LOC:state Que U.S.¿el estado tiene la artemisa como su flor estatal ?
+HUM:desc ¿ Quien era Darius ?
+ENTY:other ¿ Cual es el daño a negocio y gobierno causado por la burocracia ?
+NUM: ¿ Cuanta gente fue declarada fallando en las Filipinas despues del tifon " Angela " ?
+ENTY:food ¿ Que condimento fue vendido una vez como una medicina evidente ?
+LOC:country ¿ Que pais tiene el precio de incendio provocado mas alto ?
+NUM:count ¿ Cuanta gente visita al Papa cada mes ?
+DESC:def ¿ Cuales son terminos de inkhorn ?
+HUM:ind ¿ Que parte jugo John Peter Zenger en el deveopment del periodico en America ?
+ENTY:food ¿ Cual de muchas tinas numeradas del whisky escoces fue juzgado mejor por un panel de expertos en 1863 ?
+DESC:manner ¿ Como es tratada el agua para hacer caja fuerte para beber ?
+ENTY:plant ¿ Que planta tiene la semilla mas grande ?
+ENTY:cremat Lo que la revista pago 5 dolares , 000 para una pelicula de ocho milimetros de John F.¿Kennedy ' s asesinato ?
+ENTY:cremat ¿ En que novela presento Ian Fleming a James Bond ?
+DESC:manner ¿ Como encuentro una direccion de web para una compañia ?
+ENTY:dismed ¿ Cual es un miedo de comida ?
+ENTY: ¿ Cual es el acido salicylic extraido de ?
+NUM: ¿ Cuanta gente murio en el accidente de avion 1972 en el Everglades ?
+ENTY:cremat ¿ Que 1981 la pelicula de Bergen-Jacqueline de Candice Bisset era una nueva version de 1943 ' s Viejo Conocido ?
+NUM:count ¿ Cuantas zonas de vegetacion diferentes estan alli ?
+LOC: ¿ Cual es el estado estadounidense mas norte ?
+LOC:country ¿ Que pais rodea San Marino , el mundo ' s la Rep&250;blica mas pequeña ?
+HUM:ind ¿ A quien debia el primer X-hombre morir en la batalla ?
+DESC:desc ¿ Que las palabras son a la cancion cantada por el Platano en el Pijama ?
+NUM: ¿ En que el dia del año es honrada la Constitucion española ?
+NUM:volsize ¿ De que tamaño es nuestra galaxia en el diametro ?
+ENTY:other ¿ Que sexo probablemente contratara dos veces como la lepra ?
+HUM:gr ¿ Quien fabrica el software , Fototienda ?
+ENTY:event ¿ Cual era el nombre de la batalla famosa entre Texas y Mexico ?
+LOC:mount Lo que la sierra amplia del Golfo de San.¿Lawrence a Alabama ?
+DESC:def ¿ Que hace una apuesta . el latin mortem medio ?
+ENTY:termeq ¿ Que ' s una bruja macha llamo ?
+ENTY:animal ¿ En el Escarabajo Bailey , puede usted llamar Sarge ' s perro ?
+DESC:manner Como puede yo hacer cumplir nuevas reglas a un grupo de jovenes que han sido permitidos hacer como ellos complacen
+NUM:money ¿ Cuanto sera cobrado los impuestos el gas en California hacia el año 2000 ?
+DESC:def ¿ Que hace los nombres Andrew y Christina media ?
+HUM:title ¿ Cuando no adventuring en Rann , que llama Adan Strange su profesion ?
+DESC:def ¿ Que hace el nombre Jenna medio ?
+HUM:ind Llame al niño abandonado en un peldaño a principios del Callejon de Gasolina
+DESC:reason ¿ Por que estan alli las 12 personas en un jurado en casos criminales ?
+HUM:ind ¿ El abogado que represento a Randy Craft , cual era su nombre ?
+NUM: ¿ Cuantas pausas publicitarias durante peliculas son permitidas por la CEE actualmente ?
+HUM:ind ¿ Quien jugo el papel principal en yo Era un Hombre lobo Adolescente ?
+ENTY:dismed ¿ Cual es un miedo de embarazo ?
+HUM:gr ¿ Cuales son los 10 primeros colegios en los Estados Unidos en el campo de la ingenieria ?
+ENTY:cremat ¿ Que fue escrito el primer juego ingles exclusivamente para niños ?
+HUM:ind ¿ Que director retrato al comandante del campo POW en 1953 ' s Stalag 17 ?
+NUM:money ¿ Cuanto costo la investigacion de Contra de Iran ?
+DESC: ¿ Cual es el nombre del partido separatista kurdo ?
+ENTY:other ¿ Cual era el nombre de la politica 1899 forzada en China por la cual todas las naciones tenian derechos de comercio iguales ?
+HUM:ind ¿ Quien era la primera mujer en el espacio ?
+HUM:ind ¿ Quien dijo la & 250;nica cosa que tenemos que temer es el miedo si mismo ?
+NUM: ¿ A cuantos habitantes tiene Corea del Norte ?
+DESC: ¿ De que el equipo es el entrenador de Bobby Robson ?
+HUM: ¿ Quien pinto " el Grito " ?
+LOC:other ¿ Donde estaba me he caido , y puedo ' t despertar dijo primero ?
+HUM:ind Lo que el doctor reclamo en un libro 1946 : ¿ no hay ninguna tal cosa como un muchacho malo ?
+HUM:desc ¿ Quien es Henry Butler ?
+DESC: ¿ Cual es la abreviatura para el Ejercito de Liberacion de la Gente sudanesa ?
+ENTY:veh ¿ Cual es el nombre del segundo transbordador espacial ?
+LOC: ¿ Donde fue jugada la America Copa 1991 ?
+HUM:ind ¿ Cual de los actores siguientes trabajo en Nueva York ' s el Teatro Yidish ?
+DESC:def ¿ Cual es la memoria de escondite ?
+NUM: ¿ Cuando hizo Piet Mondriaan vivo ?
+DESC:desc ¿ Que tengo que hacer para tomar mi perro conmigo para vivir en Dominica , Antillas durante un año ?
+DESC:def ¿ Que hace Ouija medio ?
+LOC:country ¿ Que pais ' s la ciudad mas norte es Darwin ?
+HUM:ind ¿ A quien trato Sara Jane Moore de matar ?
+DESC:desc ¿ Que pasaria a Canada si Quebec se separara ?
+DESC: ¿ Cual es General Motors ?
+HUM:ind ¿ Quien es el director de asuntos intergubernamentales para el condado de San Diego ?
+NUM:count ¿ Cuantos americanos lucharon por los britanicos en la Revolucion americana ?
+HUM:ind Quien dijo : ¿ nunca preguntaran al vencedor si el dijera la verdad ?
+ENTY:animal ¿ Que especie es un potro ?
+NUM:weight ¿ Que se pesan los Ingleses ?
+ENTY:termeq ¿ Que seguia el octavo dia el Nones en cada mes del calendario romano llamado ?
+DESC: ¿ Cual es NASA ?
+ENTY:other ¿ Cual es Nebraska ' s el recurso mas valioso ?
+ENTY: ¿ Con que la sustancia radiactiva era Eda Charlton inyectado en 1945 ?
+DESC:reason ¿ Por que puede ' t las mujeres sirven en la Marina a bordo submarinos ?
+ENTY:animal ¿ Que animal han llamado el Hombre Pobre ' s Vaca ?
+NUM:code ¿ Cual es Colombia Tristar ' s n&250;mero de telefono ?
+HUM:gr Llame Pittsburgo ' s equipo de beisbol
+HUM:ind ¿ Quien tiene mas ADN - un hombre o una mujer ?
+NUM:period ¿ Que la edad media es un caballo vive ?
+ENTY:other ¿ Que tipo de patente hizo Ermal Fraze entran en 1963 ?
+ENTY: ¿ Que transbordador espacial de los Estados Unidos tomo a un astronauta ruso a bordo por primera vez ?
+NUM:date ¿ Cuando publicara Jean Aeul su siguiente libro ?
+DESC: ¿ Cual es la Orden del Templo Solar ?
+NUM: ¿ Cuando dimitio Nixon ?
+HUM:gr ¿ Que es construida la linea aerea para viajeros profesionales ?
+HUM:ind ¿ Cual es Goldfinger ' s nombre ?
+DESC:def ¿ Que hace Janelle medio ?
+DESC:manner ¿ Como usa usted mas lejos a diferencia de adelante ?
+ENTY:dismed ¿ Que un miedo de ser es sucio ?
+ENTY:event ¿ Cuales son algunos acontecimientos historicos significativos de los años 1990 ?
+HUM: A quien es el Cuarteto de Cuerdas de Shostakovich No.¿8 dedicado ?
+LOC: ¿ Donde crecio Paul Weller ?
+DESC:def ¿ Cual es el Cubo de Londres ?
+ENTY:other Lo que fue primero usado por John L.Sullivan y James J.¿Corbett en 1892 ?
+HUM:ind ¿ A quien el primer era negro para ser el entrenador principal de una liga principal pro equipo de deportes ?
+HUM:ind ¿ Quien escribio a Hijos y Amantes ?
+HUM:ind ¿ Quien recibio el Premio de Will Rogers en 1989 ?
+DESC:manner ¿ Como se forma un huracan ?
+HUM:ind ¿ Cual era Al Capone ' s apodo ?
+HUM:ind ¿ Quien hizo un barco de la madera de tuza ?
+NUM:other ¿ Cual es la latitud y la longitud de Paso el- , Texas ?
+DESC: ¿ Quien impuso el embargo a Iraq ?
+HUM:gr ¿ Cual es Pittsburgo ' s equipo de beisbol llamado ?
+LOC:country ¿ Cual era el & 250;nico pais del que le permitieron conducir en Israel en 1979 ?
+NUM: ¿ Cuantos juegos consecutivos gano el Penn State ?
+LOC: ¿ Cual es la capital de Rusia ?
+NUM: ¿ A cuantos habitantes tiene Sydney ?
+HUM:ind ¿ Quien hace la coleccion de datos en el turismo ?
+NUM:count ¿ Cuantos verdaderos zumos de fruta estan alli en una lata de la Perforadora hawaiana ?
+LOC: ¿ Donde hizo la reunion anual de la Comision de Caza de ballenas Internacional ocurren ?
+ENTY:sport ¿ Que resultado de beisbol requirio nueve pelotas en 1879 , ocho pelotas en 1880 y siete pelotas en 1881 ?
+NUM:perc ¿ Cual es la probabilidad que al menos 2 de las 25 personas tendran el mismo cumpleaños ?
+NUM: ¿ Cuando ocurrio un golpe en Chipre ?
+DESC:manner ¿ Como reconoce usted la anorexia ?
+LOC:other ¿ Que area produce el cafe menos acido ?
+LOC: ¿ En que la parte de Rusia se revento un oilpipe ?
+DESC:def ¿ Que quiere decir Robert ?
+LOC:other ¿ Donde puedo encontrar toda la informacion tengo que saber sobre la Guerra Civil Inglesa , 1642-1649 ?
+DESC:def ¿ Cual es tyvek ?
+DESC:manner ¿ Como construyo Hohenzollerns su poder alrededor 17 ?
+HUM:gr ¿ Que nivel de la agencia del gobierno o gubernamental es responsable de tratar con el racismo ?
+LOC:state Lo que es el estado de richest en el U.S. ?
+NUM:date ¿ En cual año fue excluida la Nueva Zelanda de la alianza ANZUS ?
+DESC:manner ¿ Como puedo darme una manicura francesa ?
+ENTY: ¿ Que premio concedieron a Elizabeth Neufeld ?
+DESC:desc ¿ Que es diferente sobre el zorro rojo y negro ?
+NUM:count ¿ Cuanta electricidad tiene que el cerebro trabajar ?
+ENTY:cremat ¿ Que album puso los Beatles sobre la tapa de Tiempo en 1967 ?
+ENTY:animal ¿ Que tipo es un caracol ?
+DESC:reason ¿ Por que dice usted Dios te bendiga cuando la gente estornuda ?
+HUM:ind ¿ Quien es el Anticristo ?
+ENTY:event Llame el periodo historico frances durante el reinado de Napoleon III
+HUM:gr Llame la compañia de crecimiento de arbol
+HUM:ind ¿ Quien era el autor del cuento de hadas famoso que Blancanieves y Siete Empequeñece ?
+ENTY:lang ¿ Que lengua tiene la mayor parte de palabras ?
+HUM:ind Quienes eran dos & 250;nicos U calvos . S.¿Los presidentes ?
+ENTY:dismed ¿ Cual es un miedo de la gente negra ?
+DESC:manner ¿ Como se reproducen los cangrejos de ermitaño ?
+DESC:manner ¿ Como comienzo un negocio basado de web ?
+DESC:desc ¿ Que hace la urticaria de abeja en el arandano se atasca ?
+ENTY: ¿ Que es establecido en Seibertenrod en Vogelsberg ?
+HUM:ind ¿ Quien estrellado en Canto en la Lluvia y la Monja Cantante ?
+DESC:desc ¿ Cual es Franz Kafka ' s cuento un Doctor de Pais que trata de decirnos ?
+ENTY:cremat ¿ En que libro puedo encontrar la historia de Aladino ?
+HUM:ind ¿ Que presidente envio un crucero para llevar a Charles Lindbergh a casa despues de su vuelo epico ?
+LOC:state Lo que es el estado de crecimiento mas rapido en el U.S.A.¿en 1998 ?
+NUM:period ¿ Que edad tiene el cantante Freedy Johnston ?
+DESC:reason ¿ Por que didn ' t extension de regla colonial europea hacia el final de las primeras y segundas revoluciones industriales ?
+DESC: ¿ Para cual compañia trabaja Tom Kalinske ?
+ENTY:cremat ¿ Que es llamada la Biblia judia ?
+ENTY:dismed ¿ Que enfermedad tiene Katharine Hepburn lo que hace su sacudida de voz ?
+ENTY: ¿ Que petrolero sufrio un accidente despues " del marzo Egeo " ?
+NUM: ¿ Cuantas escoltas fueron matadas en el asesinato de Juez Falcone ?
+DESC: ¿ Seg&250;n el metodo Hamer , como comienza el cancer ?
+HUM: ¿ Quien es el presidente de los Estados Unidos ?
+HUM:ind ¿ Que lider frances vendio Luisiana a los Estados Unidos ?
+ENTY: ¿ De que el pais es el pintor Piet Mondrian ?
+NUM: ¿ Cuando hizo la secesion de Bosnia de Yugoslavia ocurren ?
+DESC:def ¿ Cual es el Poconos ?
+DESC: ¿ Que aguantaapoya " la EAU " ?
+HUM:ind ¿ Quien era el ecologista que sirvio como el portavoz para el Loco de Uvas Postal ?
+ENTY:food ¿ Que comida de los tres osos hizo Goldilocks comen ?
+ENTY:event ¿ Que incidente de 1933 usaron los Nazis alemanes para justificar decretos de emergencia , encarcelando a opositores y concediendo mas poder en ellos ?
+LOC:country ¿ Que huespedes de nacion Mozambique ?
+DESC:desc ¿ Que hace la gente para ayudar a prevenir la extincion de aves ?
+HUM:ind ¿ Quien era Humpty original Dumpty ?
+LOC:country ¿ En que la nacion es Edessa localizado hoy dia ?
+DESC:desc Que ' s el diferencia de U.S.¿Justicia de Corte Suprema Thurgood Marshall ?
+NUM: ¿ Que año el cometa de Halley era visible ?
+DESC:def ¿ Que representan las figuras en la Isla de Pascuas ?
+HUM:ind ¿ Quien asumio como el conductor de la M&250;sica pop de Boston despues de que Arthur Fiedler ' s mucho tiempo reina ?
+DESC: ¿ A que partido pertenece Duarte Lima ?
+LOC: ¿ Donde en Argentina estaba alli un brote de colera ?
+DESC:desc ¿ Que paso en el marzo Largo ?
+LOC:other ¿ Donde esta localizado el Aeropuerto de McCarren ?
+NUM: ¿ Cuando fue nacido Alberto Giacometti ?
+LOC: ¿ Donde se hundio " la Estonia " ?
+LOC: ¿ Donde esta Chiapas ?
+NUM:date ¿ Cuando fue establecido Microsoft ?
+HUM:gr Que compañia ha construido mas de 2.¿5 mil millones de pequeñas casas verdes desde 1935 ?
+HUM:gr ¿ Que compañia creo el Mosaico de Navegador ?
+DESC:desc ¿ Cual es el Compaq ' s declaracion de mision ?
+DESC:def Defina Spumante
+LOC:state ¿ En que la provincia es Edmonton localizado ?
+DESC:desc ¿ Que las calificaciones estan alli para individuos que donan la sangre ?
+ENTY:dismed ¿ Cual es un miedo de parasitos ?
+DESC:desc ¿ Cual es characterstics fisico distinto del caballo arabe ?
+HUM: ¿ Quien es el arquitecto del Museo Guggenheim en Bilbao ?
+ENTY:cremat ¿ Que el software ofrece el uso de inventores del diseño PARECIDO A UN DAO ?
+DESC:reason ¿ Por que las casas embrujadas son populares ?
+ENTY: ¿ Que es llamado el sistema operativo del Sol ?
+HUM: ¿ Quien gano " el Viaje de Francia " ?
+DESC: ¿ Que hace las iniciales que la OMC aguanta ?
+LOC: ¿ Donde esta el Reichstag ?
+ENTY:other ¿ Que es predito para caerse entre 2010 y 2020 ?
+DESC:manner ¿ Como es purificado el estroncio de elemento ?
+NUM:date ¿ En que año fue matado Gandhi ?
+ENTY:event ¿ Cuales son los años en la jerga de libro de comics ?
+DESC:manner ¿ Como fue formado el ACLU ?
+LOC: Llame un pais o region donde el virus Ebola ha sido encontrado
+LOC:other ¿ Que puente de California profesor universitario Brown era primero en cruzar , el 27 de mayo de 1937 ?
+ENTY:word ¿ Cuales son las seis primeras palabras de Dickens ' s un Cuento de Dos Ciudades ?
+DESC:desc ¿ Que ' s el origen de la palabra ` noticias ' ?
+DESC:desc ¿ De donde vino la regla basica que dice ?
+DESC:desc ¿ Que proceso nuclear ocurre en una H-bomba ?
+DESC:reason ¿ Por que es Microsoft ' s Windows un 3 tal programa de ordenador acertado ?
+NUM:count ¿ Cuantas millas es ello de Francfort , Alemania a Salzburg , Austria ?
+ENTY:termeq ¿ Cual es la traduccion inglesa para la palabra caliente ?
+LOC:country ¿ Cual es la nacion mas importante en el mundo , historicamente ?
+NUM:count ¿ Cuanta gente va de excursion ?
+ENTY:cremat ¿ Que Hermann el libro de Hesse dio su nombre a un grupo de rock ?
+ENTY:veh ¿ Cual era el nombre del vuelo que aquel Fawaz Younis secuestro ?
+NUM:date ¿ Que año hizo Spielberg hacen Mandibulas ?
+ENTY:cremat ¿ Cual es la serie de television mas largo que corre ?
+ENTY:event ¿ Cual era el nombre de la rebelion Protestante contra la supremacia del Papa ?
+DESC:def ¿ Cuales son Ritos de la criada ?
+LOC: ¿ Cual es la capital de la region Qabail ?
+ENTY:other ¿ Que rueda invento Blaise Pascal en una b&250;squeda del movimiento perpetuo ?
+HUM:ind ¿ Que con fuerza - del artista que oye pinto Girasoles ?
+ENTY:event ¿ Que serie de procesos siguio la Segunda Guerra Mundial ?
+HUM:ind ¿ Quien era el presidente de Comite Olimpico Internacional en los Juegos de Verano 1936 ?
+LOC:country ¿ Que pais llamaron los romanos Hibernia ?
+DESC:desc ¿ Cuales son las ventajas de una maquina que rema ?
+ENTY:product ¿ Cual es la marca registrada de unas sustancias quimicas solia controlar la maduracion ?
+DESC: Lo que era Aldrich H.¿Ames acuso de ?
+ENTY:event ¿ Los procesos que resultan de la Segunda Guerra Mundial son conocidos como que ?
+LOC:city ¿ Cuales son las capitales de los dos paises grandes que ocupan la peninsula iberica en Europa ?
+DESC:desc ¿ Cual es la diferencia entre una botella y un tarro ?
+NUM:count ¿ Cuantas estrellas estan alli en la Montaña Rusa ?
+ENTY:letter ¿ Cual es el alfabeto para el latin ?
+ENTY:dismed ¿ Cual es un miedo de niños ?
+HUM:ind ¿ Quien escribio el libro , finlandes de Arandano ?
+ENTY:cremat ¿ Que Mary Tyler Moore Show regular vino en el mundo como Tadeus Wladyslaw Konopka ?
+ENTY:cremat ¿ Que la pelicula de Hermanos Marx centra en una pintura robada ?
+DESC:desc ¿ Cuales son las ventajas de la escuela de casa ?
+HUM:ind ¿ Cual de los periodistas de TV siguientes era un erudito Rhodes ?
+ENTY:color Que color es Sr .. ¿Spock ' s sangre ?
+ENTY:other ¿ Que materia ' s escasez era el factor solo mas grande en el cuidado de coches Norteamericanos de los caminos durante la Segunda Guerra Mundial ?
+ENTY: ¿ Para cual pelicula gano Robert Bresson el Gran Premio en Cannes ?
+ENTY: ¿ Que licenciara Microsoft de SOL ?
+DESC:def ¿ Cual es la hipnoterapia ?
+LOC:other ¿ Cual es la isla mas grande en el Mar Mediterraneo ?
+LOC:city ¿ En que ciudad vivio Flintstones ?
+DESC:desc ¿ Que ' s distintivo sobre un palmiped ' s pies ?
+DESC: ¿ Cual es el GIA ?
+ENTY:substance ¿ Que moleculas incluyen el fl&250;or , el sodio y el magnesio ?
+NUM: ¿ Cuando hizo " un Portuguesa " se hacen un himno nacional ?
+ENTY:event ¿ Que se encontro el 15 de enero de 1969 ?
+NUM: ¿ Que edad tiene el Teatro Bolshoi ?
+LOC:mount ¿ Cual es Nueva Inglaterra ' s la montaña mas alta ?
+NUM:other ¿ Que ' s la poblacion de Biloxi , Misisipi ?
+ENTY: ¿ Que lengua es dicha en Alemania ?
+LOC: ¿ Cual es la capital de Malasia ?
+ENTY:other ¿ En que se pegaron las compañias britanicas 175 , 0 toneladas del te en 1982 ?
+LOC: ¿ Que pais europeo tiene el precio mas alto del consumo de alcohol ?
+HUM:ind ¿ Cual es el apodo del aviador famoso que equivocadamente volo a Irlanda en vez de a Los & 193;ngeles ?
+HUM:gr ¿ Llame la compañia que uso la linea , incluso su mejor amigo ganado ' t le dice en su anuncio ?
+ENTY:food ¿ Que pasa usted mezclando la ginebra y el verm&250 ; ?
+ENTY:techmeth ¿ Cuales son los acercamientos diferentes del analisis de sistemas ?
+HUM:ind ¿ Que antiguo presidente ' s hija ha escrito un libro Asesinato titulado en la Casa Blanca ?
+DESC:manner ¿ Como afecto la Gran Depresion Japon ' s historia ?
+LOC: ¿ Donde fue fundado Greenpeace ?
+DESC: ¿ De que la red es el presidente de Peter Tortorici ?
+DESC: ¿ Quien fabrica Invirase ?
+LOC: ¿ En que pais fueron pospuestas las operaciones de Naciones Unidas hasta el 31 de marzo de 1995 ?
+LOC: ¿ En que pais europeo esta localizado Galway ?
+ENTY:cremat ¿ En que pelicula o peliculas ha aparecido Jude Law ?
+NUM:count ¿ Cuantos las criadas chupaban ?
+NUM:weight ¿ Cual es el peso de aire ?
+HUM:ind ¿ Que actor armado caballero relata la TV ' s el Mundo en la Guerra ?
+NUM:count ¿ Cuantos sitios Web estan alli en el mundo ?
+ENTY:cremat Que poema contiene la linea , envejecer conmigo el mejor debe ser a&250;n
+HUM:ind ¿ Que actor primero retrato a James Bond ?
+ENTY:sport ¿ Cual era el nombre del juego de pelota jugado por el mayans ?
+NUM:date ¿ Cuando comienza la menstruacion ?
+LOC:state ¿ Misisipi tiene que nombre para un apodo estatal ?
+DESC:manner ¿ Como es el nuevo Ford furgoneta de Econoline F25 V1 motor ?
+DESC:reason ¿ Cual es la razon principal por la cual los vehiculos electricos pueden ' t ser populares hoy dia ?
+DESC:def ¿ Cual es un cullion ?
+HUM: ¿ Quien dijo que " Yeltsin dejados tienen su vodka y Chechenia tienen su libertad " ?
+ENTY:color ¿ Que su favorito es en color ?
+NUM:count ¿ Cuantos votos electorales toma esto para ganar la presidencia ?
+DESC:reason ¿ Que hizo los Lagos de Dedo en Estado de Nueva York occidental ?
+ENTY: ¿ Que tipo de gobierno tiene Francia ?
+LOC:state Que U.S.¿el estado es la Muesca de Dixville en ?
+HUM:ind ¿ Quien escribio los Viajes de Misionero mas vendidos e Investigaciones en Sudafrica , publicada en 1857 ?
+HUM:ind ¿ Cual es su marido ' s nombre ?
+NUM:period ¿ Cual es el tiempo esto toma a un mecanografo para escribir a maquina un guion que es 100 paginas de largo ?
+NUM:volsize ¿ De que tamaño es un bebe aguila calva ?
+DESC:desc ¿ Que rasgos del elefante africano son mas grandes que aquellos del elefante indio ?
+NUM:date ¿ En que el año hizo Thatcher hecho primer ministro ?
+NUM:count ¿ Cuantos huesos estan alli en la mano humana ?
+HUM: ¿ Que primer ministro frances se suicido en los años 90 ?
+LOC:other ¿ Donde esta el Colegio de Jinete ?
+LOC:other ¿ En que el mar es Bombay ?
+HUM: ¿ Quien es el presidente del equipo de f&250;tbol Roma ?
+DESC:def ¿ Cual es la banca de casa ?
+LOC:state ¿ Que estado en el Golfo de Mexico tiene su punto mas bajo cinco pies debajo del nivel del mar ?
+HUM:ind ¿ Quien invento el Wonderbra ?
+HUM:ind ¿ Quien escribio el libro , el Grinch Quien Robo la Navidad ?
+DESC: ¿ Como es aplicado el metodo Hamer ?
+DESC:def ¿ Cual es una verruga ?
+DESC:manner ¿ Como puedo averiguar mi biorritmo ?
+LOC:city ¿ Que capital escandinava es construida a nueve islas relacionadas por el puente ?
+HUM: ¿ Quienes son " McLibel 2 " ?
+LOC:country ¿ Que pais es famoso de mantas persas ?
+LOC:other ¿ Cual era la antigua residencia de reyes escoceses en Edinburgh ?
+HUM:ind ¿ Quien invento el Sintetizador Moog ?
+NUM: ¿ Cuanto hay de aqui de Braga a Guimar ? " ? ^es ?
+HUM:ind ¿ Que lider sovietico poseyo unos Rollos-Royce ?
+HUM: ¿ Cual es el nombre del lider turco Atat ? " & 209;~rk ?
+NUM:period ¿ Que edad tiene el artista italiano Maurizio Pellegrin ?
+LOC:other ¿ En que estadio juegan los Delfines de Miami a sus juegos de casa ?
+HUM:gr Llame un partido fascista frances
+LOC:other ¿ Donde estan las distribuciones de bosque tropical pluvioso tropicales ?
+HUM:ind ¿ Que caracter creo primero Tex Avery para llegar a MGM ?
+DESC:def ¿ Cual es la critica literaria ?
+NUM:count ¿ A cuanta gente asesino Randy Craft ?
+HUM: ¿ Quien es Arabella Kiesbauer ?
+LOC:other ¿ Donde hicieron rodar primero los telefericos abajo la Calle de Arcilla en 1873 ?
+DESC: ¿ Como hizo Pasolini mueren ?
+HUM: ¿ Quien libero la ciudad de Sainte-Mere-Eglise durante el D-dia ?
+DESC: ¿ Que significa la ETA de abreviatura ?
+NUM:count ¿ Cuantos caracteres estan en el alfabeto chino ?
+ENTY:dismed ¿ Cual es un miedo de sueño ?
+ENTY:other ¿ Que invento Jimmy Stewart ?
+HUM:ind ¿ A quien deberia yo llamar para conseguir un viaje de la Bolsa de Nueva York ?
+NUM:date ¿ Cuando creyo Nostradamus que la Guerra Mundial III comenzaria ?
+HUM:gr ¿ Que tipo de gente participo en Shays ' Rebelion en Massachusetts en 1787 ?
+NUM:count ¿ Cuantas especies puestas en peligro estan alli en el mundo ?
+LOC:other ¿ Que bahia de California ' s la isla mas grande es la Isla de & 193;ngel ?
+ENTY:substance ¿ Que ' s el elemento mas abundante en el sol ?
+NUM: ¿ En el Campeonato de F&250;tbol Mundial , en que termino el lugar Italia ?
+DESC:manner ¿ Como protege la seda hecho ?
+NUM:date ¿ Cuando era la primera aceria en los Estados Unidos construidos ?
+NUM:money ¿ Que estara el aumento en el impuesto de gas de California hacia 2000 ?
+DESC:reason ¿ Cual es el objetivo de la llave SysRq en mi teclado de ordenador ?
+DESC: ¿ Cual es la direccion de la libreria de Barata ?
+LOC:city ¿ En que la ciudad en Florida es el Mundo de Mar ?
+DESC:def ¿ Cual es la Via Lactea ?
+LOC:other ¿ Donde en el Internet puedo conseguir a importadores de productos quimicos ?
+DESC:reason ¿ Que hace la esperma ?
+LOC:country ¿ Que pais ' s capital es Lagos ?
+ENTY:food ¿ Que bebida contiene tantos tipos del ron como posibles ?
+DESC:def ¿ Cual es oso y mercados alcistas ?
+ENTY:color ¿ En que color de propiedades de Monopolio son conseguidos el mas a menudo ?
+DESC:manner ¿ Como hizo la tradicion del mejor principio de hombre ?
+DESC:manner Como cerca un primo era Franklin D.¿a Theodore Roosevelt ?
+NUM:count ¿ Cuantos discos hacen a cada jugador tienen en un juego para cuatro manos de Crokinole ?
+DESC:manner ¿ Como dice usted alguien que le gustan ellos ?
+ENTY:substance ¿ Que cuatro elementos arreglan el 90 por ciento del cuerpo humano ?
+ENTY:cremat ¿ En que la pelicula de Kevin Costner hizo a indios Sioux desempeñan un papel ?
+ENTY:product ¿ Italia es el productor mas grande de que ?
+ENTY:color ¿ Que color eran sus caballos ?
+ENTY:other ¿ Cuales son las siete maravillas del mundo ?
+NUM:date ¿ Cuando fue disuelta la URSS ?
+ENTY:sport ¿ Garry Kasparov juega que juego ?
+ENTY:sport ¿ Que juego de plato hondo de f&250;tbol ' s primera reina era Bosques Hallie ?
+ENTY:substance ¿ De que son hechas las uñas ?
+DESC:manner ¿ Como trabajan las pantallas de blues de pelicula ?
+ENTY:techmeth ¿ Que debe la formula calcular la pi ?
+HUM:ind ¿ Quien era la muchacha en Peter Sellers ' s sopa ?
+ENTY: ¿ En que el festival es " Leone d'Oro " concedido ?
+LOC:other ¿ Cuales son las bibliotecas mas grandes en los EE.UU ?
+NUM:count ¿ Cuantos astronautas tripularon cada vuelo de Mercurio de Proyecto ?
+NUM: ¿ Cuando fue firmado el Tratado de Roma ?
+NUM: ¿ Cuando murio Salvador Allende ?
+ENTY:techmeth ¿ Cuales son tres caminos de los cuales el viento es creado en la tierra ?
+DESC:def ¿ Cual es la definicion clasica del heroe tragico ?
+LOC:other ¿ En que golfo asiatico eran los destructores Maddox y Tornero C Joy fusilado ?
+NUM: ¿ Cuantos Formula 1 campeonatos hicieron el triunfo de Sena de conductor de carrera de automoviles brasileño Ayrton ?
+ENTY:cremat ¿ Que 1956 la novela de Grace Metalious era a la lista de exito de libreria durante dos años ?
+LOC:city ¿ Cual es la ciudad mas grande en Texas ?
+HUM: ¿ Quien es el gerente de recursos humanos para la Corporacion de Motor Yamaha ?

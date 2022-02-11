@@ -1,0 +1,496 @@
+pair_ID	sentence_A	sentence_B	relatedness_score	entailment_judgement
+4	Los niños pequeños juegan al aire libre y el hombre sonríe cerca .	No hay ningún niño jugando al aire libre y ningún hombre sonriendo	3.6	CONTRADICTION
+24	Una persona con una chaqueta negra está haciendo trucos en una motocicleta .	Una persona experta está montando una bicicleta en una rueda .	3.4	NEUTRAL
+105	Cuatro niños están haciendo flexiones hacia atrás en el gimnasio .	Cuatro chicas hacen flexiones hacia atrás y juegan al aire libre .	3.8	NEUTRAL
+116	Un jugador lanza la pelota	Dos equipos compiten en un partido de fútbol .	2.9	NEUTRAL
+119	Cinco niños están parados frente a una cabaña de madera .	Cinco niños están parados en una cabaña de madera .	4.2	NEUTRAL
+185	Pocas personas comen en mesas rojas en un restaurante sin luces	Un gran grupo de asiáticos está comiendo en un restaurante .	2.6	NEUTRAL
+197	Alguien está en una motocicleta en blanco y negro y está parado en el asiento .	Una motocicleta viaja de pie sobre el asiento del vehículo .	3.165	NEUTRAL
+211	Dos perros están jugando junto a un árbol .	Dos perros están jugando junto a una planta .	4.6	ENTAILMENT
+218	Una chica de blanco esta bailando	Una niña lleva ropa blanca y está bailando .	4.9	ENTAILMENT
+219	No hay chica de blanco bailando	Una chica de blanco esta bailando	4.2	CONTRADICTION
+225	El equipo frente a la bailarina rubia es sonido .	Una chica de blanco esta bailando	2.7	NEUTRAL
+228	Una chica de blanco esta bailando	La chica rubia baila frente al equipo de sonido .	3.3	NEUTRAL
+236	Los hijos de una familia están jugando y esperando .	Un hombre asiático está bailando y tres niños están mirando .	1.9	NEUTRAL
+253	Un excursionista está en la cima de la montaña y está bailando alegremente .	Un excursionista está en la cima de la montaña y está bailando .	4.7	ENTAILMENT
+280	Un niño está parado fuera del agua .	El niño vadea por el océano azul	3.135	NEUTRAL
+285	Una persona calva está tocando una guitarra .	Una persona tiene cabello rubio y suelto y está tocando una guitarra .	3.9	NEUTRAL
+304	Una anciana en topless está cubierta de pintura	Una mujer joven en topless está cubierta de pintura	3.8	NEUTRAL
+317	Un grupo de niños con uniforme está parado en una puerta y nadie besa a la madre .	Una multitud de personas está cerca del agua .	1.3	NEUTRAL
+382	Un perro marrón y blanco corre por la hierba alta	Un perro marrón y blanco se mueve a través de la hierba salvaje .	4.4	NEUTRAL
+384	Un perro blanco y fuego corre por la hierba alta y verde	Un perro blanco y fuego corre por un campo	4.35	ENTAILMENT
+394	Un hombre está sentado cerca de una bicicleta y está escribiendo una nota .	Un hombre está parado cerca de una bicicleta y está escribiendo en un papel	3.6	NEUTRAL
+402	Un grupo de exploradores camina por la hierba .	Un grupo de exploradores camina por la hierba .	4.1	NEUTRAL
+417	Dos hombres se toman un descanso de un viaje por una carretera nevada	Dos hombres con autos están al costado de una carretera nevada .	4.0	NEUTRAL
+450	Una dama está surfeando y montando una ola .	Una chica rubia está mirando las olas .	3.3	NEUTRAL
+520	La mujer con pantalones plateados , pantalones de campana rosas y una bufanda rosa está montando una bicicleta	Las mujeres con pantalones plateados o las personas que andan en bicicleta no deben usar pantalones de campana rosa y una bufanda rosa .	3.3	NEUTRAL
+526	La mujer con pantalones plateados , pantalones de campana rosas y una bufanda rosa está montando una bicicleta	Una mujer peatonal está construyendo bicicletas rosas para jinetes que usan boa	2.4	NEUTRAL
+530	Un ciclista lleva ropa negra .	Un motociclista vestido de negro está rompiendo los engranajes	3.1	NEUTRAL
+592	Una mujer se quita una capa , que es muy grande , y deja al descubierto un vestido extravagante .	Una mujer se pone un manto , que es muy grande , y oculta un vestido extravagante .	3.5	CONTRADICTION
+619	Un niño está trepando por una pared construida artificialmente para escalar y está atado a una cuerda	Un niño , que parece asustado , está en un muro de escalada .	3.5	NEUTRAL
+630	Un hombre no está tirando a un niño a la piscina que está cerca del océano	El hombre lanza a un niño a la piscina que está cerca del océano .	3.5	CONTRADICTION
+647	Un hombre está escalando un acantilado con una cuerda .	Una persona con equipo de escalada rosa amarró la roca .	3.3	NEUTRAL
+651	Una persona está escalando una roca con una cuerda , que es rosa .	Un hombre está escalando un acantilado con una cuerda .	4.6	NEUTRAL
+687	Un perro blanco está mirando la calle negra .	Dos perros de diferentes razas se miran al otro lado de una calle	3.4	NEUTRAL
+717	Algunos hombres en una competencia corren afuera	Algunos hombres en una competencia corren adentro	3.9	CONTRADICTION
+718	Algunos hombres en una competencia corren afuera	Algunos hombres están organizando competencias afuera	3.9	NEUTRAL
+765	El niño se desliza felizmente en la nieve .	Un niño en una colina cubierta de nieve lleva una chaqueta roja y un sombrero negro y se desliza de rodillas .	4.0	NEUTRAL
+780	Una mujer , que es vieja , está cerca de un perro blanco .	Una mujer y un perro están sentados en el tocón de un árbol	3.1	NEUTRAL
+816	Un grupo de personas está equipado con equipo de protección .	Un grupo de personas está equipado con equipo utilizado para protección .	5.0	ENTAILMENT
+860	Un perro blanco y uno negro corren uno al lado del otro en la hierba	Un perro , que tiene un abrigo negro , y un perro blanco corren sobre la hierba .	4.2	ENTAILMENT
+873	No hay mucha gente en un parque de patinaje sobre hielo .	Una pista de patinaje sobre hielo colocada al aire libre está llena de gente	3.5	NEUTRAL
+882	La chica del uniforme azul y blanco está animando	La niña anima al hombre del uniforme azul y blanco .	3.1	NEUTRAL
+913	Una mujer está siendo besada por un hombre .	No hay mujer besada por un hombre	4.2	CONTRADICTION
+933	La chica de la camisa roja está soplando una burbuja .	La joven está soplando una burbuja enorme .	3.8	NEUTRAL
+947	Algunos corndogs están siendo devorados por dos niños pequeños que están en una carreta , que es realmente pequeña	Dos niños pequeños comen corndogs en un carro , que es realmente pequeño	4.8	ENTAILMENT
+980	Un hombre se sube a un caballo en una pista tendida en la naturaleza	Un caballo arroja al vaquero con pantalones de color azul y rojo .	2.1	NEUTRAL
+987	Un adulto está en el anfiteatro y está hablando con un niño .	No hay ningún adulto en el anfiteatro hablando con un niño .	4.3	CONTRADICTION
+988	Se da una charla sobre un adulto y un niño en el anfiteatro	Un adulto está en el anfiteatro y está hablando con un niño .	3.1	NEUTRAL
+1039	El snowboarder no está saltando sobre la nieve blanca	Una persona que está practicando snowboard salta al aire .	3.3	NEUTRAL
+1102	Una mujer monta un caballo	Un hombre abre un pequeño paquete que contiene auriculares .	1.0	NEUTRAL
+1137	Un pez está cazando una tortuga en el mar .	La tortuga sigue al pez	3.5	NEUTRAL
+1170	Una mujer está cortando una papa	Una mujer está cortando una zanahoria	3.0	NEUTRAL
+1177	Una mujer se está peinando	Una mujer arregla su cabello	4.1	NEUTRAL
+1178	Una mujer se está peinando	No hay mujer peinándose	3.6	CONTRADICTION
+1190	Un hombre y una mujer están caminando por una zona boscosa .	Un hombre y una mujer caminan juntos por el bosque .	4.3	ENTAILMENT
+1192	Un hombre y una mujer caminan juntos por el bosque .	Un hombre y una mujer caminan por una zona boscosa .	4.6	ENTAILMENT
+1232	Un hombre está cortando un bollo	Un hombre está cortando un tomate	3.6	NEUTRAL
+1236	Una mujer baila y canta sola	Una mujer baila y canta con otras mujeres .	3.285	CONTRADICTION
+1237	Algunas mujeres bailan y cantan	Una mujer baila y canta bajo la lluvia .	3.8	NEUTRAL
+1241	Una mujer baila y canta con otras mujeres .	Una mujer baila y canta bajo la lluvia .	4.1	NEUTRAL
+1266	Una banda toca en un escenario .	Una banda está tocando en el escenario	5.0	ENTAILMENT
+1302	Un hombre toca la flauta	Un hombre está jugando con una pelota .	1.5	NEUTRAL
+1333	La mujer mide a la otra mujer	Una mujer está siendo medida por otra mujer	4.9	ENTAILMENT
+1390	Una persona está parada cerca de una motocicleta .	Una persona está cortando una cebolla	1.2	NEUTRAL
+1396	Un hombre esta gritando	Un hombre tiene miedo	3.6	NEUTRAL
+1400	Un hombre triste esta llorando	Un hombre esta gritando	2.9	NEUTRAL
+1410	Una mujer está cortando camarones	Un hombre corta mantequilla en un recipiente pequeño	1.4	NEUTRAL
+1412	Los hombres están aserrando troncos	Los hombres están cortando madera	4.5	ENTAILMENT
+1443	Un hombre esta hablando por la radio	Un hombre esta escupiendo	1.7	NEUTRAL
+1469	Tres jóvenes corren , saltan y patean cerca de una máquina expendedora	No hay ningún hombre corriendo , saltando y pateando cerca de una máquina expendedora .	3.8	CONTRADICTION
+1470	Tres hombres están saltando de una pared	Tres jóvenes corren furiosamente , saltan y patean cerca de una máquina expendedora	2.5	NEUTRAL
+1487	El hombre no revuelve la salsa para el pollo	El hombre está revolviendo la salsa para el pollo .	4.0	CONTRADICTION
+1493	Un hombre está tocando una guitarra eléctrica .	Un hombre toca la guitarra	4.9	ENTAILMENT
+1495	Un hombre esta tocando una guitarra	Un hombre toca una guitarra	4.9	ENTAILMENT
+1503	Tres chicos con trajes de kárate no están peleando	Tres chicos con trajes de karate están peleando .	3.3	CONTRADICTION
+1506	Tres hombres están practicando karate al aire libre	Tres chicos con trajes de karate están peleando .	3.8	NEUTRAL
+1525	Una mujer está plantando flores .	Una mujer está cortando brócoli	1.2	NEUTRAL
+1584	El tejón está cavando un agujero	Un tejón está cavando astutamente la tierra	4.5	ENTAILMENT
+1608	Una serpiente está siendo alimentada con un ratón por un hombre .	Ninguna serpiente está siendo alimentada por un ratón por un hombre	4.7	CONTRADICTION
+1628	Una persona está mezclando algunos ingredientes en un bol	Algunos ingredientes están siendo separados en un recipiente por una persona .	4.6	NEUTRAL
+1676	Un barco navega pacíficamente sobre el agua	La guitarra la toca el hombre	1.1	NEUTRAL
+1690	La leche la bebe un gato	El gato bebe un poco de leche	5.0	ENTAILMENT
+1703	Un hombre está vaciando completamente un recipiente de plástico	Un hombre está vaciando un recipiente de plástico .	4.7	ENTAILMENT
+1711	Un hombre está vaciando un recipiente de plástico .	Un hombre sostiene descuidadamente una rana .	1.1	NEUTRAL
+1754	Una flauta está siendo tocada de una manera encantadora por una niña .	Una flauta está siendo tocada por una niña .	4.6	ENTAILMENT
+1807	El adulto toca la guitarra en voz alta .	Un hombre toca una flauta	2.4	NEUTRAL
+1811	Un hombre toca la guitarra en voz alta .	Una flauta no la toca un hombre	2.4	NEUTRAL
+1839	La niña , que es pequeña , se peina cuidadosamente en una cola de caballo .	La niña , que es pequeña , se peina en una cola de caballo .	4.6	ENTAILMENT
+1847	Un hombre está sentado en la silla	La niña , que es pequeña , se despeina	1.0	NEUTRAL
+1861	El micrófono frente al loro parlante está silenciado .	El loro está hablando por el micrófono .	4.0	NEUTRAL
+1877	Los gatitos en las bandejas se comen como alimento para un anuncio .	Los gatitos comen la comida de las bandejas	3.5	NEUTRAL
+1881	Los gatitos comen la comida de las bandejas	Algunos gatitos están comiendo	4.2	ENTAILMENT
+1964	Una persona toca la guitarra y canta .	Una persona toca una guitarra y canta .	4.9	ENTAILMENT
+2001	El caballo está siendo montado por un hombre .	Un hombre esta montando el caballo	5.0	ENTAILMENT
+2019	Un hombre lanza cuchillos peligrosamente a un árbol	Algunos hombres peligrosos con cuchillos arrojan una bicicleta contra un árbol	3.3	NEUTRAL
+2058	Una dama corta un poco de carne con precisión	Una mujer está cortando algo de carne en pedazos	4.8	ENTAILMENT
+2089	El hombre niega una entrevista	El hombre concede una entrevista	3.2	CONTRADICTION
+2096	El hombre concede una entrevista	El coche blanco de un hombre está siendo conducido	1.1	NEUTRAL
+2130	Un niño regaña a un perro	Un niño pequeño está jugando con un perro .	3.4	NEUTRAL
+2157	La imagen de una cámara instalada está siendo tomada por un hombre en la playa al atardecer .	Un hombre está tomando fotografías de un lago .	3.0	NEUTRAL
+2166	Una mujer está cosiendo con una máquina .	Una mujer está utilizando una máquina para coser	4.8	ENTAILMENT
+2221	Alguien se cae de un caballo	El hombre no se cae de un caballo	3.9	NEUTRAL
+2229	Una mujer golpea sus dedos sobre una mesa	Una mujer descansa sus dedos sobre una mesa	4.1	NEUTRAL
+2231	Una mujer golpea sus dedos	Una mujer descansa sus dedos sobre una mesa	3.1	NEUTRAL
+2284	El gato juega apasionadamente con una sandía	El gato está jugando con una sandía .	4.7	ENTAILMENT
+2286	El gato juega apasionadamente con una sandía	Un gato está jugando con una sandía .	4.5	ENTAILMENT
+2362	Una persona está quemando algunas cámaras con un soplete .	La persona alta está prendiendo fuego a las cámaras	3.8	NEUTRAL
+2364	Algunas cámaras están siendo quemadas por una persona con un soplete	La persona está prendiendo fuego a las cámaras .	4.2	ENTAILMENT
+2366	Una persona junto a algunas cámaras está soplando una antorcha encendida	La persona está prendiendo fuego a las cámaras .	3.3	NEUTRAL
+2385	Una persona está cortando una cebolla en trozos	Una persona está cortando una zanahoria en trozos	3.4	NEUTRAL
+2392	El hombre no esta cortando la papa	El hombre está cortando una papa	2.7	CONTRADICTION
+2402	Alguien esta cortando un tomate	La mujer sostiene un tomate entero	3.5	NEUTRAL
+2404	La dama está cortando un tomate	No hay nadie cortando un tomate	3.0	CONTRADICTION
+2405	La dama está cortando un tomate	Alguien esta cortando un tomate	4.7	ENTAILMENT
+2410	Un hombre está preparando un plato	La mujer corta una cebolla con un cuchillo	1.3	NEUTRAL
+2430	Un hombre corre por la calle	Un hombre esta corriendo	4.4	ENTAILMENT
+2476	Algunas personas estan cantando	Un grupo de personas esta cantando	4.7	ENTAILMENT
+2485	El hombre esta tocando una guitarra	Un hombre toca una trompeta	2.2	NEUTRAL
+2525	Algunas personas están flotando en una balsa .	La gente está montando y remando en una balsa .	3.8	NEUTRAL
+2527	La gente está montando y remando en una balsa .	Cuatro personas están flotando en una balsa .	4.2	NEUTRAL
+2535	No hay gato comiendo mazorcas de maíz	Un gato está comiendo maíz .	2.5	NEUTRAL
+2544	La persona está cortando una verdura .	Nadie está cortando un tomate	3.1	NEUTRAL
+2557	Alguien está rasgueando la guitarra	Alguien esta tocando la guitarra	4.5	ENTAILMENT
+2566	Tres mujeres bailan	Algunas mujeres estan bailando	4.6	ENTAILMENT
+2604	Un perro toro está siendo cepillado por el mono .	El mono está cepillando a un perro toro	4.8	ENTAILMENT
+2606	El mono está cepillando a un perro toro	Un toro está cepillando al mono .	3.9	NEUTRAL
+2662	La dama no está rompiendo un huevo para la batidora	La dama está cortando la carne	2.335	NEUTRAL
+2668	Algunos hurones están saliendo de la jaula .	Los hurones bajan de un estante	3.1	NEUTRAL
+2678	Un hombre se mete apresuradamente en un coche en un garaje .	Un hombre se esta subiendo a un auto	4.1	ENTAILMENT
+2679	Un hombre estaciona un auto en un garaje .	Un hombre se esta subiendo a un auto	3.4	NEUTRAL
+2687	La persona está cortando un diente de ajo en trozos .	La persona no está cortando un diente de ajo en trozos .	3.0	CONTRADICTION
+2704	Una mujer hierve los fideos en agua	Una mujer está hirviendo fideos en agua .	5.0	ENTAILMENT
+2712	No hay ningún practicante de kárate pateando a otro hombre que lleva guantes de boxeo protectores .	Un practicante de karate patea a otro hombre que lleva guantes de boxeo protectores .	4.3	CONTRADICTION
+2720	El hombre está kick boxing con un entrenador .	No hay ningún practicante de kárate pateando a otro hombre que lleva guantes de boxeo protectores .	3.0	NEUTRAL
+2721	El hombre está kick boxing con un entrenador .	Un practicante de karate patea a otro hombre que lleva guantes de boxeo protectores .	4.0	NEUTRAL
+2722	Una mujer , que está sentada , canta una canción y toca la guitarra .	Una mujer sentada canta una canción y toca la guitarra .	5.0	ENTAILMENT
+2726	Una mujer sobre una roca está acostada sobre una manta y leyendo un libro	Una mujer está meciéndose sobre una manta acostada sobre alguien leyendo un libro	2.7	NEUTRAL
+2738	La mujer no toca la guitarra eléctrica .	Un hombre está tocando una guitarra acústica .	3.0	NEUTRAL
+2766	Un hombre y una mujer estan hablando	Un hombre y una mujer están comiendo felices .	2.6	NEUTRAL
+2772	Una persona está vertiendo aceite para cocinar en una olla .	Una persona está vertiendo aceite de cocina en una olla .	5.0	ENTAILMENT
+2791	Un conejillo de indias , que es pequeño , está royendo y comiendo un trozo de zanahoria en el suelo	Un pequeño conejillo de indias está royendo y comiendo un trozo de zanahoria en el suelo	4.8	ENTAILMENT
+2795	Un pequeño conejillo de indias está royendo y comiendo un trozo de zanahoria en el suelo	Un conejillo de indias está devorando una zanahoria	4.5	ENTAILMENT
+2812	Un avion esta aterrizando	Un avión animado está despegando .	2.7	NEUTRAL
+2822	Una mujer está sacando una mezcla de un recipiente .	Una mujer está preparando un huevo en una sartén	2.7	NEUTRAL
+2829	La dama está dibujando sombra de ojos	La mujer está pintando sombra de ojos	5.0	ENTAILMENT
+2842	Una niña está tocando un piano de cola en el escenario .	Una niña está practicando el piano	3.8	NEUTRAL
+2886	Una mujer toca una flauta	La mujer no toca la flauta	3.2	CONTRADICTION
+2898	El hombre está levantando pesas	El hombre esta levantando pesas	4.3	ENTAILMENT
+2911	Una mujer se está maquillando	No hay mujer maquillándose	4.0	CONTRADICTION
+2932	La mujer corta una zanahoria	Una mujer está cortando una cebolla	2.4	NEUTRAL
+2936	Dos hombres están peleando en un corral de ganado	Dos hombres están fuera de un corral de ganado	3.0	NEUTRAL
+2965	A una gran bola verde le falta una papa	Una gran bola verde está golpeando una papa	3.3	NEUTRAL
+2967	Una gran bola verde está golpeando una papa .	Una gran bola de color verde está golpeando una papa .	4.8	ENTAILMENT
+2968	A una bola verde grande le falta una papa	Una gran bola verde está golpeando una papa .	3.5	NEUTRAL
+2972	Una gran bola verde está golpeando una papa .	A una gran bola verde le falta una papa	3.4	CONTRADICTION
+2996	Un hombre esta tocando una guitarra	Un hombre está poniendo una guitarra	3.3	NEUTRAL
+3002	Una mujer está tocando una guitarra eléctrica .	Un hombre está poniendo una guitarra	2.3	NEUTRAL
+3036	El cachorro no juega con un recipiente de plástico .	El cachorro está jugando con un recipiente de plástico .	3.2	CONTRADICTION
+3061	Una mujer conduce un automóvil y habla con el hombre que está sentado a su lado .	No hay ninguna mujer conduciendo un coche y hablando con el hombre sentado a su lado .	4.7	CONTRADICTION
+3107	Un hombre está tumbando a un guitarrista sentado	Un hombre está sentado en el suelo de una habitación y rasguea una guitarra	2.3	NEUTRAL
+3122	Una mujer usa un lápiz para los ojos y se aplica delineador de ojos en el párpado .	Una mujer se está aplicando cosméticos en el párpado .	4.6	ENTAILMENT
+3123	No hay ninguna mujer que use un lápiz de ojos y se aplique delineador de ojos en el párpado .	Una mujer se está aplicando cosméticos en el párpado .	3.1	CONTRADICTION
+3143	Un mono patea el guante de una persona .	El mono practica artes marciales .	3.6	NEUTRAL
+3174	Un niño tira un instrumento .	Un niño está tocando un instrumento de viento .	2.8	NEUTRAL
+3181	Un hombre camina en el bosque .	El hombre no camina por el bosque	3.8	NEUTRAL
+3222	No hay ningún niño cruzando un puente	Un niño cruza un puente .	3.7	CONTRADICTION
+3250	Una mujer coloca dos huevos en una olla con agua .	Una mujer pone dos huevos en una olla con agua .	4.9	ENTAILMENT
+3275	Un niño entra y sale corriendo de las olas del océano .	Un niño entra y sale corriendo de las olas del océano .	4.9	ENTAILMENT
+3291	Una mujer guarda zanahorias	Una mujer está cubriendo una chuleta de cerdo	1.7	NEUTRAL
+3292	Una mujer está rallando zanahorias	Un cocinero está cubriendo una chuleta de cerdo	2.1	NEUTRAL
+3322	La mujer está cortando pan y cerdo frito .	Una mujer está cocinando una chuleta de cerdo empanizada	3.2	NEUTRAL
+3338	No hay ningún hombre parado en una azotea y tocando un violín	Un hombre está parado en una azotea y toca un violín	3.4	CONTRADICTION
+3364	Una mujer está limpiando un camarón .	La mujer está limpiando un camarón	4.9	ENTAILMENT
+3373	Una mujer está montando una moto de agua .	Una mujer está montando una scooter para el agua .	4.1	ENTAILMENT
+3384	Un oso panda está comiendo bambú .	Un oso panda se está comiendo bambú	4.8	ENTAILMENT
+3398	Alguien está batiendo un huevo	La mujer no está revolviendo huevos en un bol	3.2	NEUTRAL
+3420	Una mujer está deshuesando un pez	Un pez grande atrapa a un hombre	1.9	NEUTRAL
+3433	Una persona está untando con mantequilla una bandeja	Una persona está untando con mantequilla una bandeja	5.0	ENTAILMENT
+3459	El hombre está cortando el tronco de un árbol con un hacha .	Un hombre corta un tronco con un hacha .	4.4	NEUTRAL
+3485	El gato está mirando por la ventana a la mesa en la percha .	El gato posado sobre la mesa está mirando por la ventana .	4.1	NEUTRAL
+3501	Un perro está lamiendo a un bebé	El perro está lamiendo al bebé	4.8	ENTAILMENT
+3505	Una mujer guarda el ajo	Una mujer está cortando ajo	3.6	NEUTRAL
+3518	El hombre no esta bailando	Una mujer esta bailando	3.3	NEUTRAL
+3536	Alguien está cocinando quimbombó en una sartén	La okra se cocina en una sartén	4.9	ENTAILMENT
+3586	Un hombre toca el tambor	Un hombre está practicando el tambor	4.6	ENTAILMENT
+3598	Un hombre está haciendo ejercicios de suelo .	Un hombre esta haciendo ejercicios	4.3	ENTAILMENT
+3625	Una mujer está poniendo carne en una sartén .	No hay mujer poniendo carne en una sartén	3.4	CONTRADICTION
+3626	Alguien deja caer la carne en una sartén	La carne se deja caer en una sartén .	4.7	ENTAILMENT
+3657	Un niño está llenando una jarra con agua .	Un niño llena una jarra de agua	5.0	ENTAILMENT
+3661	Una mujer está recogiendo el agua de un grifo en una taza .	Un niño está llenando una jarra con agua .	2.7	NEUTRAL
+3670	Está lloviendo sobre un hombre que camina	Un hombre camina bajo la lluvia	4.9	ENTAILMENT
+3680	Los corredores corren por una pista	No hay corredores corriendo por una pista	3.7	CONTRADICTION
+3711	Un tren de juguete golpea un carro de juguete	A un tren de juguete le falta un carro de juguete	3.8	CONTRADICTION
+3721	La persona está cortando cebollas	La persona corta las cebollas	4.9	ENTAILMENT
+3733	Los nadadores corren en un lago	Algunos corredores están nadando en un lago .	4.3	ENTAILMENT
+3747	Un hombre talentoso toca la guitarra .	Una mujer está tocando una guitarra	3.2	NEUTRAL
+3790	Una persona está fregando un calabacín	La persona está fregando un calabacín .	5.0	ENTAILMENT
+3812	Una mujer está cortando un pimiento verde .	Una mujer está cortando un pimiento verde	4.8	ENTAILMENT
+3855	Un hombre se detiene en medio de una carretera .	Un hombre camina por un camino	3.2	NEUTRAL
+3861	Un hombre del desierto está en un sendero	Un hombre camina por un camino	3.4	NEUTRAL
+3862	El hombre camina por un sendero a través del desierto	Un hombre camina perezosamente por un camino	3.285	NEUTRAL
+3880	Un hombre baila en el techo de una habitación .	El hombre baila boca abajo en el techo	4.4	ENTAILMENT
+3897	No hay hombre haciendo ejercicio	Un hombre está haciendo ejercicio	3.4	CONTRADICTION
+3909	El hombre canta y toca la guitarra .	La guitarra la toca un hombre	4.3	ENTAILMENT
+3910	Un hombre está empacando la guitarra	El hombre canta y toca la guitarra .	3.4	NEUTRAL
+3922	Los chicos no bailan delante de algunas personas .	Los chicos bailan frente a algunas personas	3.8	CONTRADICTION
+3941	Un niño está mirando un calendario .	No hay ningún chico revisando un calendario	3.9	CONTRADICTION
+3982	Una mujer está pelando una papa	Una mujer está refrigerando una papa .	3.7	NEUTRAL
+3996	No hay hombre cantando y tocando la guitarra	Un niño está tocando un piano	2.2	NEUTRAL
+4001	Un hombre está trepando imprudentemente por una cuerda	Un hombre esta trepando una cuerda	4.3	ENTAILMENT
+4006	Un hombre esta trepando una cuerda	El hombre está trepando por una cuerda	4.8	ENTAILMENT
+4011	Un hombre esta trepando una cuerda	Un hombre está trepando por una cuerda	4.8	ENTAILMENT
+4015	La dama está recogiendo el canguro	La mujer está recogiendo el canguro	4.9	ENTAILMENT
+4031	Un hombre rompe baldosas con las manos .	No hay hombre rompiendo tablas de madera con la mano	2.9	NEUTRAL
+4054	Un perro corre sin aliento por la carretera	Un perro corre en la carretera	4.5	ENTAILMENT
+4060	Un hombre corre en la carretera	Un perro corre sin aliento por la carretera	2.6	NEUTRAL
+4066	El hombre lanza cuchillos a un árbol	El hombre lanza cuchillos a un árbol .	4.6	ENTAILMENT
+4067	El hombre está quitando cuchillos de un árbol	El hombre lanza cuchillos a un árbol .	3.3	NEUTRAL
+4079	Un hombre está montando un caballo	Un hombre esta montando un caballo	4.7	ENTAILMENT
+4086	No hay hombre haciendo un dibujo	Un hombre esta haciendo un dibujo	3.9	CONTRADICTION
+4114	No hay hombre comiendo comida	Un hombre está comiendo una pizza	3.2	CONTRADICTION
+4135	Un perro rebota en un trampolín	Un perro está saltando en un trampolín .	4.7	ENTAILMENT
+4140	Varios niños están saltando en un trampolín .	Un hombre está haciendo volteretas en un trampolín	3.4	NEUTRAL
+4155	Un hombre toca una flauta de madera .	No hay hombre tocando una flauta de madera	3.7	CONTRADICTION
+4157	No hay hombre tocando el piano	Un hombre esta tocando el piano	4.0	CONTRADICTION
+4164	El hombre borra el dibujo en la pizarra	La mujer borra el dibujo en la pizarra	3.7	NEUTRAL
+4187	No hay perro jugando con un juguete .	Un perro se come una muñeca .	3.8	CONTRADICTION
+4191	Un perro se come una muñeca .	Un perro está jugando con un juguete .	3.6	NEUTRAL
+4196	Un hombre esta bailando	Un hombre esta rezando fervientemente	1.7	NEUTRAL
+4288	La mujer está cortando pulpo cocido	Una mujer está cortando un pulpo .	4.4	ENTAILMENT
+4321	Un hombre esta dibujando	No hay ningún hombre dibujando	3.8	CONTRADICTION
+4330	El hombre esta dibujando	No hay ningún hombre dibujando	3.4	CONTRADICTION
+4342	Un hombre esta comiendo un banano	Un hombre esta comiendo una fruta	4.6	ENTAILMENT
+4360	Un hombre esta cortando una nota	Un hombre esta cortando un papel	4.4	ENTAILMENT
+4376	Un hombre esta tocando una guitarra	No hay nadie tocando el piano	2.7	NEUTRAL
+4411	Dos hombres en una carrera están volteando los neumáticos de un tractor	Dos hombres compiten en una carrera de rodadura de neumáticos	3.7	NEUTRAL
+4429	Los hombres estan hablando	Algunas ancianas estan hablando	3.0	NEUTRAL
+4477	Un hombre está golpeando una pelota de fútbol	Un hombre está mezclando el contenido de un cuenco .	1.2	NEUTRAL
+4505	Los doctores estan curando a un hombre	El doctor esta ayudando al paciente	4.2	ENTAILMENT
+4638	Un hombre está tocando un teclado	Un hombre toca un arpa	2.4	NEUTRAL
+4650	Un hombre corta una cuerda gruesa con una espada .	No hay hombre cortando una cuerda con una espada	3.6	CONTRADICTION
+4661	Una mujer está cortando una papa	Una mujer está cortando una papa	4.8	ENTAILMENT
+4707	Un grupo de hombres está jugando al fútbol en la playa .	Un grupo de niños está jugando al fútbol en la playa .	4.4	NEUTRAL
+4734	Un hombre está ajustando un silenciador a una pistola	Un hombre aplica un silenciador a una pistola .	4.8	ENTAILMENT
+4755	La niña está sentada en el sofá y está tejiendo	No hay niña tocando el violín en la playa	1.4	NEUTRAL
+4767	Un hombre está cocinando una serpiente	No hay hombre cocinando una serpiente	3.7	CONTRADICTION
+4776	No hay niño tocando la guitarra	Un niño está tocando la guitarra	3.8	CONTRADICTION
+4803	No hay mono molestando a un perro en el zoológico	Un mono se burla de un perro en el zoológico .	2.935	CONTRADICTION
+4814	Un mono tira de la cola de un perro	Un mono se burla de un perro en el zoológico .	4.4	NEUTRAL
+4816	No hay nadie cortando un poco de jengibre	Una persona está cortando un poco de jengibre	3.8	CONTRADICTION
+4823	Una persona está cortando un poco de jengibre	Una persona está cortando una cebolla	3.0	NEUTRAL
+4831	Un hombre está cortando una papa en pedazos	Un hombre no corta una papa	4.0	CONTRADICTION
+4843	Un hombre abre una caja con un cuchillo .	No hay hombre abriendo una caja con un cuchillo	3.8	CONTRADICTION
+4851	Algunos instrumentos están siendo tocados por una banda .	Una banda toca algunos instrumentos .	5.0	ENTAILMENT
+4852	Una banda no toca algunos instrumentos .	Una banda toca algunos instrumentos .	3.8	CONTRADICTION
+4866	Una persona esta bailando	Una mujer está haciendo ejercicio	3.0	NEUTRAL
+4891	Un hombre está haciendo dominadas	El hombre está haciendo ejercicios en un gimnasio .	4.0	NEUTRAL
+4916	Un hombre canta y toca la guitarra .	Un hombre está cantando y tocando un instrumento musical .	4.5	ENTAILMENT
+4934	Los reclutas están hablando con un oficial	Un oficial está hablando con los reclutas .	3.7	NEUTRAL
+4963	El ajo está siendo picado por una mujer	Una mujer está cortando ajo	4.7	ENTAILMENT
+4966	Una mujer está cortando un pescado	No hay mujer cortando pescado	2.7	CONTRADICTION
+5003	Un gato grande abre un cajón de plástico con sus patas y salta dentro	Un gato abre un cajón y salta dentro	4.4	ENTAILMENT
+5030	El hombre esta hablando por telefono	El hombre esta hablando por telefono	4.9	ENTAILMENT
+5047	Un hombre esta cortando cebollas	Una mujer está cortando una cebolla	3.5	NEUTRAL
+5051	Un hombre esta abriendo una puerta	No hay hombre abriendo una puerta	3.6	CONTRADICTION
+5052	Un hombre está abriendo una puerta	Un hombre esta cortando una cebolla	1.2	NEUTRAL
+5082	Una mujer está tocando el violín	No hay hombre tocando el piano	2.1	NEUTRAL
+5110	Un chef está preparando comida .	Un chef está preparando una comida .	4.8	ENTAILMENT
+5113	Dos timbres de sumo están peleando	Dos luchadores de sumo están luchando	4.0	ENTAILMENT
+5119	Dos timbres de sumo están peleando	Un hombre está montando un juguete acuático en el agua .	1.0	NEUTRAL
+5148	Un hombre está untando un trozo de pan con mantequilla	Una mujer está untando un trozo de pan con mantequilla	3.5	NEUTRAL
+5203	La mujer pone pasta en un plato	Una mujer pone pasta en un plato	5.0	ENTAILMENT
+5206	Una mujer está sacando una sustancia pegajosa de un recipiente	La mujer no pone pasta en un plato .	2.2	NEUTRAL
+5310	No hay niña tocando la flauta	Una niña está tocando una flauta	3.6	CONTRADICTION
+5349	Un hombre toca una flauta grande	Un hombre toca una flauta	4.3	ENTAILMENT
+5352	Un hombre toca una flauta grande .	No hay hombre tocando la flauta	4.1	CONTRADICTION
+5374	Un pulpo está siendo cortado por una mujer	Una mujer está cortando un pulpo .	5.0	ENTAILMENT
+5454	Un hombre toca una flauta	Un hombre no toca la flauta	4.2	CONTRADICTION
+5461	Una mujer toca la flauta	Un hombre toca una flauta	3.7	NEUTRAL
+5498	Una mujer está cortando un limón	Una mujer está cortando fruta	4.2	ENTAILMENT
+5540	Un grupo de personas baila en un espectáculo .	Un grupo de personas marcha	2.3	NEUTRAL
+5588	Un cupcake está siendo comido por una niña .	Una niña está comiendo una magdalena	5.0	ENTAILMENT
+5657	Una persona está comiendo en un restaurante .	Una persona esta haciendo una cama	1.2	NEUTRAL
+5698	El cocinero está rociando queso sobre la pizza .	El hombre rocía queso sobre la pizza .	4.0	NEUTRAL
+5706	Un hombre está recargando una escopeta .	Un hombre dispara una escopeta	3.7	NEUTRAL
+5745	Un cachorro de tigre está jugando con una pelota .	Un bebé está jugando con una muñeca .	1.4	NEUTRAL
+5747	Un bebé está jugando con un juguete	Un tigre bebé está jugando con una pelota .	3.2	NEUTRAL
+5799	Una persona está pelando una papa .	Una persona está pelando una papa	5.0	ENTAILMENT
+5806	Un hombre rema en canoa	Un hombre rema en un bote	4.2	ENTAILMENT
+5904	Un hombre y una mujer están conduciendo por la calle en un jeep .	Un hombre y una mujer conducen por la carretera en un vehículo al aire libre .	4.0	NEUTRAL
+5909	Una mujer está vertiendo ingredientes en un tazón .	El chef está sazonando el aceite .	3.1	NEUTRAL
+5914	Un caballo está siendo montado por una persona .	Una persona está montando un caballo	5.0	ENTAILMENT
+5920	Un caballo está siendo montado por una persona .	Una mujer está cortando patatas	1.0	NEUTRAL
+5924	El hombre no hace ejercicios	El hombre esta haciendo ejercicios	3.8	CONTRADICTION
+5930	El hombre no hace ejercicios	Dos hombres pelean	2.3	NEUTRAL
+5938	Un hombre pone verduras en una olla	Alguien está vertiendo ingredientes en una olla .	4.0	ENTAILMENT
+5955	Un perro deja una pelota en la tierra .	Un perro persigue una pelota a través de la tierra .	3.7	NEUTRAL
+6001	No hay ningún perro marrón parado en el agua .	Un perro con pelaje dorado está en el agua .	2.8	NEUTRAL
+6005	Una niña con una camisa azul está caminando por la acera y sosteniendo un cartel rosa	Una joven junto a un cartel rosa sostiene una camisa azul y camina por la acera	3.4	NEUTRAL
+6042	El niño pequeño camina por el agua y es guiado por otra persona .	Un niño pequeño está chapoteando en el agua .	3.4	NEUTRAL
+6047	Un hombre y una mujer están en una habitación pintada de beige , con camisas de colores oscuros y un monitor en el fondo .	Un hombre y una mujer están en una habitación de color beige , con camisas de colores oscuros y un monitor en el fondo .	5.0	ENTAILMENT
+6078	Una persona que usa jeans está sentada felizmente en la parte superior de una silla de montar	Una mujer en jeans está sentada sobre la silla de un caballo	4.2	NEUTRAL
+6119	Un perro marrón y blanco sostiene una pelota de béisbol en la boca .	Un perro blanco y negro está tirando una pelota de béisbol de su boca	3.3	NEUTRAL
+6131	Un joven vestido con un traje de baño rojo está saltando a una piscina infantil azul	Un niño vestido con pantalones cortos rojos está saltando a una piscina infantil	4.0	NEUTRAL
+6146	Dos personas están de pie en el océano y contemplan la puesta de sol .	Nadie está parado en el océano mirando la puesta de sol	2.5	CONTRADICTION
+6153	Un piloto de carreras está de pie y apunta con la mano al cielo .	Un piloto de carreras está sentado y está inmóvil .	3.0	NEUTRAL
+6158	Un piloto de carreras está de pie y apunta ferozmente con la mano al cielo .	La persona de la chaqueta azul lleva un casco de colores	1.6	NEUTRAL
+6203	Un ciclista sostiene una bicicleta sobre su cabeza en un grupo de personas	Un ciclista se sostiene sobre las cabezas de un grupo de personas con la bicicleta .	3.4	NEUTRAL
+6213	Un hombre está sentado en un barco en la fuente de la puesta de sol , cerca de una bandera	Un hombre está parado en un barco frente a la puesta de sol cerca de una bandera .	3.8	NEUTRAL
+6219	Un hombre está parado en un barco frente a la puesta de sol cerca de una bandera .	Un hombre está en un bote frente al atardecer .	4.1	ENTAILMENT
+6228	La gente en una carrera de resistencia huye de las llamas que salen de los autos .	La multitud está mirando dos coches de carreras que salen de la línea de salida .	2.6	NEUTRAL
+6231	Dos perros juegan juntos en la hierba	Dos perros descansan juntos en la hierba	3.3	NEUTRAL
+6280	Un perro , que es negro , corre por la hierba .	Un perro negro corre en la hierba .	5.0	ENTAILMENT
+6287	Un perro negro corre en la hierba y su lengua cuelga	Un perro negro corre en la hierba .	4.9	ENTAILMENT
+6315	Un perro amarillo corre sobre la nieve blanca en un día muy soleado	Un perro amarillo corre sobre la nieve blanca en un día soleado	4.6	ENTAILMENT
+6330	Una niña lleva jeans y una camisa rosa y está corriendo .	Un niño con una camisa rosa corre debajo de un árbol en el desierto	2.8	NEUTRAL
+6344	Un perro blanco lleva una diadema de renos navideños y está jugando con un perro marrón en el césped	El reno blanco con orejas de perro está cerca de un reno marrón	2.2	NEUTRAL
+6358	La mujer con un traje rojo está apoyada contra una pared de ladrillos y toca un instrumento	La mujer vestida de rojo no está apoyada contra una pared de ladrillos y no toca un instrumento .	3.2	CONTRADICTION
+6394	Una cascada fluye hacia una piscina poco profunda .	La gente camina por la carretera junto a una hermosa cascada .	2.3	NEUTRAL
+6396	Un perro está esparciendo una manada de ovejas blancas en una granja polvorienta	Un perro está pastoreando una manada de ovejas blancas en una granja polvorienta	3.8	NEUTRAL
+6450	Un niño lleva una camiseta amarilla y se ríe	Un niño riendo está en un tanque amarillo y lleva una camiseta .	3.5	NEUTRAL
+6482	La persona no está parada sobre hielo blanco .	Una persona está parada en un vasto campo de hielo glacial .	3.1	NEUTRAL
+6544	El portero de hockey sobre hielo lleva una camiseta amarilla y defiende la portería .	No hay ningún jugador de hockey con camiseta amarilla custodiando la portería	4.0	CONTRADICTION
+6568	Una mujer lleva un casco azul y está montando una bicicleta en un estacionamiento	Una mujer está estacionando una bicicleta azul y lleva muchos cascos de montar	3.1	NEUTRAL
+6590	Una niña está de pie sobre una pierna .	Una mujer joven está bailando	3.3	NEUTRAL
+6592	Una niña está de pie sobre una pierna .	Una chica joven esta bailando	2.7	NEUTRAL
+6598	Una abeja se aferra a una flor amarilla .	No hay una pequeña abeja aterrizando en un ramo de flores amarillas .	3.9	NEUTRAL
+6625	No hay un perro blanco con manchas beige corriendo por un campo	Un perro bronceado corre por la maleza	2.7	NEUTRAL
+6634	Un caballo que tiene un jinete en su espalda está saltando un obstáculo	Un caballo y su jinete están saltando una barrera .	4.5	ENTAILMENT
+6649	Dos adolescentes llevan disfraces en un evento	Dos niñas adolescentes llevan disfraces en un evento	4.8	ENTAILMENT
+6673	Un aula llena de estudiantes mira atentamente en la misma dirección dentro de una estructura de bambú .	Un grupo de estudiantes uniformados escucha atentamente al frente de la clase .	2.8	NEUTRAL
+6705	Un niño , que es pequeño , está al aire libre subiendo escalones al aire libre en un área llena de césped	Un niño pequeño está al aire libre subiendo escalones en una zona de césped	4.9	ENTAILMENT
+6709	Un niño con un suéter rosa está subiendo una escalera de hormigón	Un niño pequeño está al aire libre subiendo escalones en una zona de césped	3.5	NEUTRAL
+6729	Un niño de naranja está jugando afuera con una bola de nieve .	Un niño está haciendo una bola de nieve .	3.3	NEUTRAL
+6740	La gente no está sentada en un banco frente a un restaurante .	Tres personas están sentadas en un banco debajo de unas palmeras .	3.2	NEUTRAL
+6756	Un gran perro marrón y un pequeño perro gris están de pie sobre una superficie rocosa	Un gran perro marrón y un pequeño perro gris están de pie sobre una superficie rocosa	4.8	ENTAILMENT
+6764	Tres niños descansan sobre rocas a lo largo de un río .	Tres niños caminan sobre rocas a lo largo de un río .	3.8	NEUTRAL
+6784	No hay ningún hombre vestido de negro con una elaborada máscara negra	Un hombre vestido de negro lleva una elaborada máscara negra	3.4	CONTRADICTION
+6849	Dos niños , que son pequeños , juegan con un coche de juguete en la calle .	Un padre empuja a su hija en un kart y otra niña mira	2.2	NEUTRAL
+6866	Un perro dorado corre por un campo de hierba alta	No hay ningún perro marrón corriendo por la hierba verde alta	4.0	NEUTRAL
+6912	La mujer que viste el uniforme azul y blanco con un sombrero blanco y azul mantiene la boca abierta y está cerca de otras que están vestidas de la misma manera .	Una mujer lleva una camisa azul con un chaleco blanco y una gorra blanca y está hablando y marchando	3.4	NEUTRAL
+6932	El snowboarder está dando una vuelta sobre un montículo de nieve .	Alguien está saltando en el aire sobre una tabla	3.8	ENTAILMENT
+6955	Un chico rubio en verde está sentado en un columpio	No hay niña con cabello rubio sonriendo y sentada en un columpio	3.185	NEUTRAL
+6961	Un hombre blanco está montando un sombrero y tocando la guitarra .	Un hombre con un sombrero blanco está tocando la guitarra en el escenario	3.0	NEUTRAL
+6971	No hay ningún hombre con uniforme rojo dando un salto en una carrera de motos de cross	Un hombre con uniforme rojo está dando un salto en una carrera de motos de cross	3.4	CONTRADICTION
+7002	Los jugadores de rugby no se abordan entre sí	Un jugador de fútbol está siendo abordado por su oponente	2.5	NEUTRAL
+7007	Un perro blanco está parado sobre hojas caídas	Un perro blanco está acostado sobre hojas caídas	3.8	NEUTRAL
+7018	Un niño con ropa de color claro está de pie con los brazos extendidos hacia afuera .	Un niño con ropa de colores claros está de pie con los brazos extendidos hacia afuera .	5.0	ENTAILMENT
+7027	El niño y la niña no están jugando en un patio de recreo .	El niño y la niña están jugando en el gimnasio al aire libre .	3.0	NEUTRAL
+7043	El piloto de motocross está desnudo	Un ciclista con chaqueta azul , pantalón negro y casco blanco conduce sobre tierra y la gente mira	2.6	NEUTRAL
+7044	El piloto de la moto de motocross azul y negra no lleva los pantalones .	Un ciclista con chaqueta azul , pantalón negro y casco blanco conduce sobre tierra y la gente mira	3.2	NEUTRAL
+7064	Un truco lo realiza un patinador en una rampa	Un patinador está realizando un truco en una rampa	5.0	ENTAILMENT
+7088	Un grupo de futbolistas está parado en el campo .	La multitud está viendo un partido de fútbol .	2.6	NEUTRAL
+7093	El grupo de personas está parados juntos y mirando a la cámara .	Un grupo de personas está parados juntos y mirando a la cámara .	5.0	ENTAILMENT
+7214	Un perro marrón corre por el patio con un juguete en la boca .	No hay ningún perro marrón corriendo por el patio con un juguete en la boca .	3.8	CONTRADICTION
+7228	No hay ningún niño saltando en el aire con las rodillas dobladas y los brazos abiertos .	Una persona con una camisa verde está saltando alto sobre la hierba .	2.6	NEUTRAL
+7311	El hombre del sombrero de paja fuma un cigarrillo	Un hombre lleva un sombrero de paja y fuma un cigarrillo .	4.8	ENTAILMENT
+7319	Un hombre lleva una camisa azul de mangas largas y jeans y está montando un monociclo por una calle	Un hombre lleva una camisa a cuadros azul y monta un monociclo en la calle	4.3	NEUTRAL
+7356	Los niños pequeños están subiendo una estatua en un parque	Dos niños juegan en una estatua .	4.1	NEUTRAL
+7363	Una dama rubia está mirando una torre	Una mujer está mirando la vista de una ciudad .	3.3	NEUTRAL
+7374	Un hombre está parado en la cima de las rocas con nubes detrás de ellas .	Alguien está parado en la cima de una montaña	3.1	NEUTRAL
+7394	Un niño sonríe a la cámara y nada bajo el agua .	Un niño nada bajo el agua en una piscina .	4.1	NEUTRAL
+7410	Un futbolista estadounidense lleva la franja roja y blanca	Un jugador de fútbol lleva brazaletes negros .	2.4	NEUTRAL
+7445	La niña se balancea y la mujer está parada detrás de ella .	La niña , que es pequeña , se balancea y la mujer está parada detrás	4.9	ENTAILMENT
+7448	Un niño pequeño está mostrando entusiasmo en un columpio en el parque	La niña , que es pequeña , se balancea y la mujer está parada detrás	3.6	NEUTRAL
+7464	Un surfista está montando la ola	Un hombre se cae de una tabla de surf en el agua .	3.5	NEUTRAL
+7466	El grupo de personas está sentado en una habitación oscura .	El grupo de personas está sentado en una habitación oscura .	4.9	ENTAILMENT
+7471	Un hombre y dos mujeres en una habitación oscura están sentados en una mesa con velas	El grupo de personas está sentado en una habitación oscura .	3.6	ENTAILMENT
+7475	Un hombre y dos mujeres en una habitación oscura están sentados en una mesa con velas .	El grupo de personas oscuras está sentado en una habitación .	2.5	NEUTRAL
+7477	Un hombre con una camisa blanca y gafas de sol y un hombre con una camisa negra y gafas de sol están sentados en una mesa con cuatro botellas de cerveza .	Un hombre con una camisa blanca y gafas de sol y un hombre con una camisa negra y gafas de sol están sentados en una mesa con cuatro botellas de cerveza	4.9	ENTAILMENT
+7501	La mujer no lleva una chaqueta roja y no sostiene un vaso frente al hombre con una camiseta blanca .	Una persona lleva una chaqueta roja y sostiene una cerveza .	2.4	NEUTRAL
+7533	Un niño está mirando a alguien jugando al aire libre y está echando agua sobre el resto de su familia	Un niño sostiene una manguera junto a un hombre y otro niño está mirando .	3.0	NEUTRAL
+7541	No hay ningún jugador de fútbol con una camiseta morada corriendo con el balón para un touchdown	Un jugador de fútbol pasa corriendo a un oficial que lleva una pelota de fútbol .	3.3	NEUTRAL
+7544	Un jugador de fútbol lleva a un oficial más allá de una pelota de fútbol rodante	Un jugador de fútbol con una camiseta morada corre con el balón para un touchdown	2.9	NEUTRAL
+7546	Una joven con un leotardo azul está saltando en el aire	Una joven con un leotardo de color azul está saltando en el aire	5.0	ENTAILMENT
+7548	La joven de azul está saltando en el aire	Una joven vestida de azul está saltando en el aire .	5.0	ENTAILMENT
+7582	El grupo de hombres está jugando al rugby en un campo lleno de barro	Algunos hombres están jugando al rugby	4.5	ENTAILMENT
+7590	Una persona está mirando una bicicleta diseñada para motocross que está acostada de lado y otra está corriendo	El ciclista está mirando el accidente de otro ciclista .	3.1	NEUTRAL
+7649	No hay ningún niño con una tira de fútbol verde y corriendo sobre el césped	Un niño lleva una franja de fútbol verde y corre sobre el césped	3.6	CONTRADICTION
+7667	El hombre en la playa no está haciendo el pino sobre la arena mojada al borde del agua	El hombre está haciendo el pino sobre la arena mojada al borde del agua en la playa .	3.7	CONTRADICTION
+7677	Una joven madre está jugando con su hijo en el parque .	Un niño está jugando en el parque con su madre .	4.5	ENTAILMENT
+7718	Un hombre está rociando un súper remojo en la boca de un perro	No hay ningún hombre rociando un súper remojo en la boca de un perro	3.8	CONTRADICTION
+7720	No hay ningún hombre rociando un súper remojo en la boca de un perro	Un hombre está echando agua en la boca de un perro blanco con una pistola de agua	2.9	NEUTRAL
+7726	Un niño bajo un paraguas está retenido por su padre , que lleva un abrigo azul .	Un niño , que lleva un abrigo azul , está sostenido por su padre bajo un paraguas .	4.3	NEUTRAL
+7734	Un niño bajo un paraguas está retenido por su padre , que lleva un abrigo azul .	Un niño está experimentando un mundo nuevo	1.5	NEUTRAL
+7743	Un perro está jugando solo en una playa cubierta de nieve .	Un perro camina por un ventisquero	3.2	NEUTRAL
+7772	Un surfista está montando una gran ola a través del agua verde oscuro	El surfista está montando una pequeña ola	3.9	CONTRADICTION
+7795	Un jugador de tenis se lanza hacia la izquierda	Un tenista salta hacia la izquierda .	4.4	ENTAILMENT
+7820	Dos perros miran algo que salpica en el agua .	Algunos perros no juegan en una corriente .	3.7	NEUTRAL
+7877	Un hombre con un sombrero de vaquero azul está montando un caballo blanco	Un hombre de azul está a caballo en un camino de tierra	3.9	NEUTRAL
+7889	Dos perros blancos juegan con un perro marrón y una pelota de tenis	Dos perros blancos están jugando con un perro marrón y una pelota .	4.7	ENTAILMENT
+7932	Una persona con una chaqueta rosa corre hacia el campo .	Cuatro atletas están con una mujer en un estadio lleno de gente .	2.0	NEUTRAL
+7937	Una mujer vestida con ropa elegante está dentro de una multitud de personas y está mirando hacia arriba .	Una mujer vestida con ropa elegante está dentro de una multitud de personas y está mirando hacia abajo .	3.1	NEUTRAL
+7938	Una mujer asiática sostiene un pañuelo de piel	Una mujer elegante está dentro de una multitud de personas y está mirando hacia abajo .	2.2	NEUTRAL
+7947	Un niño con una camiseta blanca está chapoteando en aguas poco profundas	Un niño corre por el agua en la playa .	3.4	NEUTRAL
+7950	Una niña corre por el agua en la playa .	Un niño con una camiseta blanca está chapoteando en aguas poco profundas	2.3	NEUTRAL
+7951	Un niño con una camiseta blanca está chapoteando en aguas poco profundas	Un niño corre por el agua en la playa .	3.5	NEUTRAL
+7997	Los niños no llevan traje y el agua salpica	Los niños en traje de baño están jugando en el agua .	2.8	NEUTRAL
+8057	Una niña lleva un traje de baño estampado azul , un gorro de baño negro y amarillo y tiene gafas de natación azules en la cabeza .	Una niña lleva un traje de baño estampado azul , un gorro de baño negro y amarillo y tiene gafas de natación azules en la cabeza .	4.8	ENTAILMENT
+8122	Una animadora está sentada sobre la rodilla de un animador masculino	Algunas animadoras se están relajando	3.0	NEUTRAL
+8138	La niña tiene el pelo y las cejas rojas , varios piercings en una oreja y un dibujo en la espalda	La niña tiene el pelo y las cejas rojas , varios piercings en una oreja y un tatuaje en la espalda .	4.4	ENTAILMENT
+8141	La niña tiene el pelo y las cejas rojas , varios piercings en la oreja y ningún tatuaje en la espalda .	Una chica con cabello rojo y cejas rojas está en midspeech .	3.0	NEUTRAL
+8163	Dos personas conducen un jeep y una dama está sentada en la parte superior .	Dos personas conducen un jeep y una niña está sentada en la parte superior .	4.8	ENTAILMENT
+8193	Los adultos y los niños no están reunidos cerca de una disposición de asientos al aire libre .	Los adultos y los niños se reúnen cerca de una disposición de asientos al aire libre .	4.4	CONTRADICTION
+8212	Una niña tiene manchas de color en las mejillas .	Una niña está de pie en un grupo y lleva una camisa negra y cuentas rosas .	2.4	NEUTRAL
+8220	Dos perros corren por el agua	Dos perros corren por la hierba alta	3.335	NEUTRAL
+8263	Algunas personas y vehículos están en una calle concurrida .	Algunas personas y vehículos están en una calle casi vacía .	4.2	CONTRADICTION
+8313	Una niña con la cara pintada está de pie junto a otros niños .	Los niños se visten con disfraces y juegan un juego .	3.1	NEUTRAL
+8326	No hay ciclista de BMX saltando rampas de tierra frente a un cuerpo de agua	Dos ciclistas de BMX están saltando rampas de tierra frente a un cuerpo de agua	4.4	CONTRADICTION
+8334	Un hombre está haciendo un truco en una patineta .	Una persona está haciendo un truco en una patineta .	4.4	ENTAILMENT
+8343	Un hombre con uniforme de motocross lleva un casco y monta una motocicleta roja	Una persona con uniforme de motocross lleva casco y monta una motocicleta roja	4.8	ENTAILMENT
+8362	Un niño con una camisa a rayas está saltando detrás de una fuente de agua .	Un niño con una camisa a rayas está saltando frente a una fuente de agua .	4.2	NEUTRAL
+8375	Dos perros grandes , uno de color claro y otro oscuro , duermen en un terreno nevado	Dos perros saltan a través de rocas y hierba nevada	2.4	NEUTRAL
+8383	Una chica de azul se desliza por un tobogán verde	La joven de azul está disfrutando de un tobogán	4.3	ENTAILMENT
+8389	Un hombre blanco camina junto a un edificio en una gran ciudad .	Un hombre negro camina junto a un edificio en una gran ciudad .	3.3	NEUTRAL
+8461	Un hombre sin sombrero está sentado en el suelo .	Un hombre con un sombrero al revés está sentado en el suelo	4.0	NEUTRAL
+8471	Una niña con suéter azul sostiene un juguete multicolor y está sentada sobre los hombros de un anciano con cabello gris	Una niña con un suéter azul sostiene un juguete multicolor y está sentada sobre los hombros de un hombre con cabello gris	4.6	ENTAILMENT
+8500	El hombre va al agua	La persona se va al mar	4.1	NEUTRAL
+8505	Dos personas están sentadas en un banco del parque en un día soleado	Dos personas están sentadas en un banco del parque en un día caluroso	4.3	NEUTRAL
+8548	El niño está salpicando agua en una gran piscina roja .	Un niño pequeño está chapoteando dentro de una piscina infantil azul	3.1	NEUTRAL
+8558	Un perro sedoso gris está tumbado en la hierba y un perro marrón está mirando	El perro marrón está viendo a un perro negro tirado en la hierba seca	3.2	NEUTRAL
+8576	Un perro negro y un pequeño perro blanco y negro están mirando hacia la encimera de la cocina	Un perro grande y un perro pequeño están parados junto a la encimera de la cocina y están investigando	4.2	ENTAILMENT
+8632	Un hombre no está escalando rocas y una ciudad y una bahía están al fondo	Un hombre está escalando rocas y una ciudad y una bahía están en el fondo	4.4	CONTRADICTION
+8633	Un hombre está escalando , haciendo una pausa y calculando la ruta .	Un hombre está escalando rocas , deteniéndose y calculando la ruta .	4.8	ENTAILMENT
+8658	Ningún grupo de personas se reúne en un stand en la feria .	La gente está parada en un carnaval .	3.8	NEUTRAL
+8660	Un grupo de patinadores hace fila en la calle	Un grupo de patinadores se alinea en la carretera .	4.9	ENTAILMENT
+8678	Un patinador está saltando de una rampa	Un patinador está saltando de una rampa	4.8	ENTAILMENT
+8700	Un pájaro negro y naranja está parado en la hierba .	El pájaro negro con pico amarillo está parado en la hierba verde	4.0	NEUTRAL
+8714	Dos perros blancos corren rápidamente juntos	Dos perros blancos corren juntos	4.6	ENTAILMENT
+8727	Un grupo de personas está de pie alrededor de una mesa de mezclas de sonido .	Algunas personas miran equipos de sonido .	3.5	ENTAILMENT
+8786	Una niña está saltando la cuerda en una acera	Una niña está saltando la cuerda cerca de una calle .	4.3	ENTAILMENT
+8792	Una niña está saltando la cuerda en una acera cerca de un estacionamiento	Una niña está saltando la cuerda cerca de una calle .	3.7	NEUTRAL
+8806	Un perro nada en un cuerpo de agua .	Un animal nada en un cuerpo de agua .	4.5	ENTAILMENT
+8832	Una mujer está apoyada en la repisa de un balcón	Un hombre está apoyado en la repisa de un balcón	3.8	NEUTRAL
+8841	Un pequeño perro blanco corre por un césped	Un gran perro blanco corre por el césped	3.1	NEUTRAL
+8855	El perro lleva una correa y camina cerca del agua .	Un perro negro con una correa está caminando en el agua .	4.5	NEUTRAL
+8938	Un niño con pantalones cortos naranjas está parado en un acantilado de roca sobre el agua y el otro niño con pantalones cortos negros está saltando al agua .	Dos machos están parados en el borde de un acantilado y uno está saltando al agua .	4.0	NEUTRAL
+8963	Un pequeño grupo de personas están de pie y dos sentados en el sofá .	Un grupo de cinco adultos jóvenes descansa en el interior .	3.8	NEUTRAL
+8986	Una joven en bikini está saltando en la playa	Una niña en la suite de natación está saltando en la playa	4.4	ENTAILMENT
+9014	Un niño rubio baja por un tobogán y levanta los brazos .	Un niño con cabello oscuro baja por un tobogán y levanta los brazos .	3.7	CONTRADICTION
+9029	Dos perros están jugando en un bosque .	Un perro marrón corre detrás de un perro negro en una orilla rocosa	2.3	NEUTRAL
+9036	Un perro blanco se acerca a un perro dorado en la playa de guijarros	Dos perros juegan en una playa rocosa	2.9	NEUTRAL
+9056	Dos niñas llevan sombreros y sacan sus lenguas de colores	Dos niños sobresalen lenguas de color azul y verde	3.6	NEUTRAL
+9069	Dos niños están tendidos en el océano cerca de la playa .	Dos niños están tendidos en el agua cerca de la playa .	4.4	ENTAILMENT
+9093	Un hombre grande está sentado en una tienda de accesorios militares .	Un veterano está mostrando cosas diferentes de una guerra a algunas personas .	2.8	NEUTRAL
+9102	Un perro con collar azul está jugando con la pelota afuera	Un perro gris rebota una pelota de fútbol en la cabeza en un campo de hierba	3.4	NEUTRAL
+9125	Una mujer joven con ropa india y henna en la mano está pasando por el papeleo	Una mujer lleva una camisa colorida y muchas joyas .	2.4	NEUTRAL
+9132	Un hombre con una camiseta negra está de pie en un gimnasio .	Un hombre con una camiseta negra está de pie en un gimnasio .	4.9	ENTAILMENT
+9136	Un hombre con una camiseta negra está de pie en un gimnasio .	Un hombre está de pie en un gimnasio y lleva una camiseta .	4.5	ENTAILMENT
+9169	Un perrito marrón y blanco corre en la acera	Un perrito marrón y blanco corre en la carretera	3.7	NEUTRAL
+9188	Un perro gira sobre el césped y persigue una pelota de tenis voladora .	Un perro amarillo persigue una pelota .	4.4	NEUTRAL
+9198	Una mujer en jeans azul está de pie frente a un grupo de niños al lado de una casa de piedra	Ninguna dama está parada en la calle y está rodeada de escolares .	3.2	NEUTRAL
+9200	Una dama está de pie en la calle y está rodeada de escolares .	Un hombre en jeans está parado frente a un grupo de niños al lado de una casa construida en piedra	2.0	NEUTRAL
+9211	Un chico está saltando en el aire en madera .	Un chico está saltando en el aire en una zona boscosa .	4.3	NEUTRAL
+9224	Un perro corre con una pelota .	El perro negro lleva una bola azul y blanca en la boca .	4.0	NEUTRAL
+9242	El hombre de azul posa para una foto junto a un vehículo .	Un hombre está parado al volante de un automóvil americano clásico que tiene la puerta y el maletero abiertos	3.2	NEUTRAL
+9287	Un hombre está esquiando cuesta abajo y saltando un obstáculo rojo .	Un hombre está haciendo snowboard por una barandilla en la nieve .	3.1	NEUTRAL
+9303	El patinador está saltando en el aire	Un patinador está saltando en el aire .	4.9	ENTAILMENT
+9314	Un snowboarder está triturando un largo riel de hormigón	Una persona está haciendo acrobacias en una tabla de snowboard .	3.3	NEUTRAL
+9336	Un grupo de personas camina por la calle y una persona con un sombrero verde está hablando por teléfono .	Cuatro personas caminan por la acera de una ciudad y el del sombrero verde está llamando a alguien	4.2	NEUTRAL
+9359	Un surfista está surfeando una gran ola .	Un surfista está surfeando una gran ola .	4.9	ENTAILMENT
+9371	Una persona con una chaqueta con capucha roja y una mochila negra camina cerca de una pared rocosa .	Un hombre con una chaqueta roja y pantalones caqui camina por un estado europeo	3.0	NEUTRAL
+9380	Los jugadores están maniobrando por el balón de fútbol .	Un hombre de verde está pateando una pelota de fútbol y un hombre de morado y blanco se levanta	3.5	NEUTRAL
+9401	El hombre vestido con chaparreras de cuero y una camisa morada está de pie frente a alguien que mira	Un hombre lleva una camisa morada y chaparreras de cuero negro y está posando para la cámara	3.3	NEUTRAL
+9424	Un perro está en una zona arenosa con la arena que se agita en el aire y varias plantas están en el fondo	Un perro está en la arena que sopla en el aire .	4.1	NEUTRAL
+9425	No hay perro en la arena que sopla con el viento	Un perro está en una zona arenosa con la arena que se agita en el aire y varias plantas están en el fondo	4.0	CONTRADICTION
+9433	El perro blanco y negro corre en un jardín verde	Un perro blanco y negro corre al aire libre	4.4	ENTAILMENT
+9452	Un perro salta al aire en el campo .	Un perro salta a la sombra de unos árboles .	3.7	NEUTRAL
+9453	Un perro salta a la sombra de unos árboles .	Un gato está saltando alto en el aire en el campo .	1.6	NEUTRAL
+9490	Un grupo de cuatro perros marrones están jugando en un campo de hierba marrón	Cuatro perros no juegan en una zona de césped .	4.0	CONTRADICTION
+9500	Un gran perro manchado marrón y blanco está acostado sobre una chaqueta en la calle	El perro está durmiendo la siesta en el parque .	2.9	NEUTRAL
+9545	Un hombre en una bicicleta deportiva amarilla está haciendo un caballito y un amigo en una bicicleta negra se está poniendo al día .	El piloto vestido de naranja conduce una motocicleta sobre una rueda	2.8	NEUTRAL
+9571	Un anciano está sentado en un banco y lleva una chaqueta gris y pantalón negro .	Un anciano está sentado en un banco	4.5	ENTAILMENT
+9584	La mujer sostiene el pincel junto al caballete del artista .	La dama sostiene el pincel junto al caballete del artista .	4.9	ENTAILMENT
+9623	Un hombre lleva una camisa azul y camina descalzo en una cancha de tenis	Una mujer lleva una camisa azul y camina descalza en una cancha de tenis	3.6	NEUTRAL
+9669	La niña juega en el borde de una fuente y una mujer mayor la mira	Una niña juega en el borde de una fuente y una mujer mayor la mira	4.8	ENTAILMENT
+9677	Una niña juega en el borde de una fuente y una mujer mayor la mira	Una niña y una mujer vestida con una camisa amarilla son salpicadas por una fuente de la ciudad	3.5	NEUTRAL
+9706	Un perro blanco y negro con una rama grande está de pie en el campo .	Un perro blanco y negro con una rama grande corre en el campo	4.2	CONTRADICTION
+9713	Un perro blanco y negro lleva un palo enorme sobre la hierba verde	Un perro blanco y negro con una rama grande corre en el campo	4.5	ENTAILMENT
+9722	Un niño corre por la arena	Un niño con una camisa a rayas corre descalzo en la colina arenosa	3.9	NEUTRAL
+9745	Dos jóvenes están mirando a la cámara y uno está sacando la lengua	El niño saca la lengua para la cámara y otro niño mira	4.4	NEUTRAL
+9747	Un niño saca la lengua para la cámara y otro niño mira	Dos niños miran a la cámara y uno saca la lengua	4.4	ENTAILMENT
+9759	Un niño que ríe sostiene una pistola de agua y se rocía con agua	Una persona con una chaqueta azul está saltando sobre una pared de cemento alta	1.1	NEUTRAL
+9763	Una persona está cortando hongos	El elefante está siendo montado por la mujer .	1.0	NEUTRAL
+9771	Dos niños pequeños están jugando con un coche de juguete en la calle .	Un perro corre por un campo y persigue un juguete .	1.4	NEUTRAL
+9788	Un hombre está tocando una guitarra eléctrica .	Un grupo de personas sostiene bebidas y apunta a la cámara .	1.0	NEUTRAL
+9789	Una niña vestida de oro y morado sostiene un arco iris afgano	Un hombre está en cuclillas en el cepillo y toma una foto .	1.0	NEUTRAL
+9822	Dos personas andan en bicicleta	Un saltador en práctica lanza la tabla de snowboard de una persona al aire .	2.0	NEUTRAL
+9838	Algunos instrumentos están siendo tocados por una banda .	Una mujer joven en topless está cubierta de pintura	1.0	NEUTRAL
+9843	Una familia está comprando algo en la máquina expendedora .	Un hombre con traje está parado frente a un micrófono y cantando .	1.0	NEUTRAL
+9869	Se monta una bicicleta sobre un mono	Una persona está montando una bicicleta de tierra por una colina de tierra	2.8	NEUTRAL
+9880	Un ciclista se aleja de una valla	Un hombre esta bailando en el camino	1.2	NEUTRAL
+9931	Una mujer está tocando una guitarra eléctrica .	Un niño está tocando la guitarra	3.0	NEUTRAL
+9963	El animal está pastando en la hierba .	El policía está sentado en una bicicleta de policía .	1.0	NEUTRAL
+9975	El perro está mordiendo algunas gotas de agua .	Una chica en una banda está tocando un instrumento .	1.0	NEUTRAL
+9988	Un joven empuja una moto de motocross por una colina de tierra	Un perro nada detrás de una pelota de tenis .	1.0	NEUTRAL
