@@ -23,17 +23,19 @@ Our benchmark allows you to evaluate your sentence embeddings as features for th
 | ID | Group                               | Datasets                                                                 |
 |----|-------------------------------------|--------------------------------------------------------------------------|
 | 0  | Sentence Classification (SC)        | TASS1, TASS2, MC, FAC, SQC                                               |
-| 1  | Sentence Pair Classification (SPC)  | PAWS-ES, NLI-ES, SICK-es-E                                               |
-| 2  | Semantic Similarity (SS)            | SICK-ES-R, STS14, STS15, STS17                                           |
+| 1  | Sentence Pair Classification (SPC)  | PAWS-es, NLI-es, SICK-es-E                                               |
+| 2  | Semantic Similarity (SS)            | SICK-es-R, STS14, STS15, STS17                                           |
 | 3  | Linguistic Probing Tasks (LPT)      | SentLen, WC, Tree Depth, BiShift, tense, SubjNum, ObjNum, SOMO, CoordInv |
 
 **Spanish DiscoEval**
 
-0) **Sentence Position (SP)** : wiki, mlsum, thesis
-1) **Binary Sentence Ordering (BSO)** : wiki, mlsum, thesis
-2) **Discourse Coherence (DC)** : wiki, opus, gdd
-3) **Sentence Section Prediction (SSP)** : mlsum
-4) **Discourse Relations (DR)** : rst
+| ID | Group                             | Datasets            |
+|----|-----------------------------------|---------------------|
+| 0  | Sentence Position (SP)            | wiki, mlsum, thesis |
+| 1  | Binary Sentence Ordering (BSO)    | wiki, mlsum, thesis |
+| 2  | Discourse Coherence (DC)          | wiki, opus, gdd     |
+| 3  | Sentence Section Prediction (SSP) | mlsum               |
+| 4  | Discourse Relations (DR)          | RST                 |
 
 ## Run the Experiments:
 "examples" folder contain all the scripts to run our experiments.
