@@ -49,6 +49,8 @@ if __name__ == "__main__":
                         help="which task to perform")
     parser.add_argument("--model_path", default='.', type=str,
                         help="path of model")
+    parser.add_argument("--seed", default=1111, type=int,
+                        help="which seed to use")
     args = parser.parse_args()
 
     # Set up logger
@@ -57,7 +59,7 @@ if __name__ == "__main__":
 
     # Set params for DiscoEval or SentEval
     params = {'task_path': PATH_TO_DATA, 'usepytorch': True, 'kfold': 10, 'batch_size': 16,
-              'model': model}
+              'model': model, 'seed': args.seed}
     params['classifier'] = {'nhid': 0, 'optim': 'adam', 'batch_size': 64,
                             'tenacity': 5, 'epoch_size': 4}
 

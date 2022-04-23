@@ -77,6 +77,8 @@ if __name__ == "__main__":
                         help="the name of transformer model to evaluate on")
     parser.add_argument("--layer", default="avg", type=str,
                         help="which layer to evaluate on")
+    parser.add_argument("--seed", default=1111, type=int,
+                        help="which seed to use")
     args = parser.parse_args()
 
     model_dict = {"beto": "dccuchile/bert-base-spanish-wwm-uncased",
@@ -96,7 +98,7 @@ if __name__ == "__main__":
 
     # Set params for DiscoEval or SentEval
     params = {'task_path': PATH_TO_DATA, 'usepytorch': True, 'kfold': 10, 'batch_size': 16,
-              'tokenizer': tokenizer, "layer": args.layer, "model": model}
+              'tokenizer': tokenizer, "layer": args.layer, "model": model, 'seed': args.seed}
     params['classifier'] = {'nhid': 0, 'optim': 'adam', 'batch_size': 64,
                             'tenacity': 5, 'epoch_size': 4}
 
