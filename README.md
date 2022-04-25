@@ -187,7 +187,7 @@ Please considering citing [[1]](https://arxiv.org/abs/2204.07571) if using this 
 @inproceedings{araujo2022evaluation,
   title="Evaluation Benchmarks for Spanish Sentence Representations",
   author="Araujo, Vladimir and Carvallo, Andr{\'e}s and Kundu, Souvik and Ca{\~n}ete, Jos{\'e} and Mendoza, Marcelo and Mercer, Robert E and Bravo-Marquez, Felipe and Moens, Marie-Francine and Soto, Alvaro",
-  booktitle = "Proceedings of the 12th Language Resources and Evaluation Conference",
+  booktitle = "Proceedings of the 13th Language Resources and Evaluation Conference",
   year = "2022",
   address = "Marseille, France",
   publisher = "European Language Resources Association",
