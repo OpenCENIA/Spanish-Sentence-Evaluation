@@ -27,7 +27,7 @@ Our benchmark allows you to evaluate your sentence embeddings as features for th
 | 2  | Semantic Similarity (SS)            | SICK-es-R, STS14, STS15, STS17                                           |
 | 3  | Linguistic Probing Tasks (LPT)      | SentLen, WC, Tree Depth, BiShift, tense, SubjNum, ObjNum, SOMO, CoordInv |
 
-Note: SQC results may differ from paper results. We noticed that SQC had very noisy prayers, so we cured it after the paper's publication. We used ChatGPT to improve the sentences, and then annotators manually verified the data.
+Note: Results on SQC may differ from paper results. We noticed that SQC had very noisy examples, so we cured them after the paper's publication. We used ChatGPT to correct the sentences, and then annotators manually verified the data.
 
 **Spanish DiscoEval**
 
