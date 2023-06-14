@@ -27,6 +27,8 @@ Our benchmark allows you to evaluate your sentence embeddings as features for th
 | 2  | Semantic Similarity (SS)            | SICK-es-R, STS14, STS15, STS17                                           |
 | 3  | Linguistic Probing Tasks (LPT)      | SentLen, WC, Tree Depth, BiShift, tense, SubjNum, ObjNum, SOMO, CoordInv |
 
+Note: SQC results may differ from paper results. We noticed that SQC had very noisy prayers, so we cured it after the paper's publication. We used ChatGPT to improve the sentences, and then annotators manually verified the data.
+
 **Spanish DiscoEval**
 
 | ID | Group                             | Datasets            |
@@ -184,14 +186,25 @@ params['classifier'] = {'nhid': 0, 'optim': 'adam', 'batch_size': 64, 'tenacity'
 Please considering citing [[1]](https://arxiv.org/abs/2204.07571) if using this code for evaluating Spanish sentence representations.
 
 ```
-@inproceedings{araujo2022evaluation,
-  title="Evaluation Benchmarks for Spanish Sentence Representations",
-  author="Araujo, Vladimir and Carvallo, Andr{\'e}s and Kundu, Souvik and Ca{\~n}ete, Jos{\'e} and Mendoza, Marcelo and Mercer, Robert E and Bravo-Marquez, Felipe and Moens, Marie-Francine and Soto, Alvaro",
-  booktitle = "Proceedings of the 13th Language Resources and Evaluation Conference",
-  year = "2022",
-  address = "Marseille, France",
-  publisher = "European Language Resources Association",
+@inproceedings{araujo-etal-2022-evaluation,
+    title = "Evaluation Benchmarks for {S}panish Sentence Representations",
+    author = "Araujo, Vladimir  and
+      Carvallo, Andr{\'e}s  and
+      Kundu, Souvik  and
+      Ca{\~n}ete, Jos{\'e}  and
+      Mendoza, Marcelo  and
+      Mercer, Robert E.  and
+      Bravo-Marquez, Felipe  and
+      Moens, Marie-Francine  and
+      Soto, Alvaro",
+    booktitle = "Proceedings of the Thirteenth Language Resources and Evaluation Conference",
+    month = jun,
+    year = "2022",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://aclanthology.org/2022.lrec-1.648",
+    pages = "6024--6034",
 }
 ```
 
-Contact: [vgaraujo@uc.cl](mailto:vgaraujo@uc.cl), [afcarvallo@uc.cl](mailto:afcarvallo@uc.cl), [skundu6@uwo.ca](mailto:skundu6@uwo.ca)
+Contact: [vgaraujo@uc.cl](mailto:vgaraujo@uc.cl)
